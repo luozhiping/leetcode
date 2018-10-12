@@ -25,7 +25,7 @@ class Solution(object):
                     begin = True
                     continue
                 if c.isdigit():
-                    number = number*10 + int(c)
+                    number = number * 10 + int(c)
                     begin = True
                     continue
                 return 0
@@ -36,11 +36,12 @@ class Solution(object):
                     break
         if negative:
             number = -number
-        if number > 2**31 - 1:
-            number = 2**31 - 1
-        elif number < -2**31:
-            number = -2**31
+        if number > 2 ** 31 - 1:
+            number = 2 ** 31 - 1
+        elif number < -2 ** 31:
+            number = -2 ** 31
         return number
+
 
 s = Solution()
 print(s.myAtoi("+-2"))
