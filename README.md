@@ -5,6 +5,7 @@ leetcode刷题笔记
 
 ### 简单难度  
 [1] [回文数](https://leetcode-cn.com/problems/palindrome-number/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/palindrome_number.py)  
+[1] [最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/longest_common_prefix.py)  
 
 ### 中等难度
 
