@@ -13,4 +13,5 @@ leetcode刷题笔记
 - [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/longest_palindromic_substring.py)  
 - [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/container_with_most_water.py)
 - [子集](https://leetcode-cn.com/problems/subsets/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/subsets.py)
+- [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/kth_largest_element_in_an_array.py)
 
