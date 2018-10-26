@@ -10,6 +10,7 @@ leetcode刷题笔记
 - [反转整数](https://leetcode-cn.com/problems/reverse-integer/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/reverse_integer.py)  
 - [合并两个有序列表](https://leetcode-cn.com/problems/merge-two-sorted-lists/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/merge_two_sorted_lists.py)  
 - [最大子序列和](https://leetcode-cn.com/problems/maximum-subarray/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/maximum_subarray.py)  
+- [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/maximum_depth_of_binary_tree.py)  
 
 ### 中等难度
 
