@@ -14,6 +14,8 @@ leetcode刷题笔记
 - [2的幂](https://leetcode-cn.com/problems/power-of-two/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/power_of_two.py)  
 - [最小栈](https://leetcode-cn.com/problems/min-stack/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/min_stack.py)  
 - [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/reverse_linked_list.py)  
+- [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/contains_duplicate.py)  
+- [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/delete_node_in_a_linked_list.py)  
 
 ### 中等难度
 
