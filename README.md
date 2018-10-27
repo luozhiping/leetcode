@@ -12,6 +12,7 @@ leetcode刷题笔记
 - [最大子序列和](https://leetcode-cn.com/problems/maximum-subarray/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/maximum_subarray.py)  
 - [二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/maximum_depth_of_binary_tree.py)  
 - [2的幂](https://leetcode-cn.com/problems/power-of-two/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/power_of_two.py)  
+- [最小栈](https://leetcode-cn.com/problems/min-stack/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/min_stack.py)  
 
 ### 中等难度
 
