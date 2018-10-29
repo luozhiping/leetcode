@@ -17,6 +17,7 @@ leetcode刷题笔记
 - [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/contains_duplicate.py)  
 - [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/delete_node_in_a_linked_list.py)  
 - [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/single_number.py)  
+- [反转字符串](https://leetcode-cn.com/problems/reverse-string/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/reverse_string.py)  
 
 ### 中等难度
 
