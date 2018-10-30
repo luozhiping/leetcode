@@ -19,6 +19,8 @@ leetcode刷题笔记
 - [只出现一次的数字](https://leetcode-cn.com/problems/single-number/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/single_number.py)  
 - [反转字符串](https://leetcode-cn.com/problems/reverse-string/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/reverse_string.py)  
 - [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/merge_sorted_array.py)  
+- [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/best_time_to_buy_and_sell_stock.py)  
+- [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/climbing_stairs.py)  
 
 ### 中等难度
 
