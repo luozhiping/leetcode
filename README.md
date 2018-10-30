@@ -21,6 +21,7 @@ leetcode刷题笔记
 - [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/merge_sorted_array.py)  
 - [买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/best_time_to_buy_and_sell_stock.py)  
 - [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/climbing_stairs.py)  
+- [nim游戏](https://leetcode-cn.com/problems/nim-game/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/nim_game.py)  
 
 ### 中等难度
 
