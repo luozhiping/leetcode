@@ -24,6 +24,7 @@ leetcode刷题笔记
 - [nim游戏](https://leetcode-cn.com/problems/nim-game/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/nim_game.py)  
 - [求众数](https://leetcode-cn.com/problems/majority-element/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/majority_element.py)  
 - [环形链表](https://leetcode-cn.com/problems/linked-list-cycle/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/linked_list_cycle.py)  
+- [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/easy/reverse_words_in_a_string_iii.py)  
 
 ### 中等难度
 
