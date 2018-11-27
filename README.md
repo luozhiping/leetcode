@@ -35,5 +35,6 @@ leetcode刷题笔记
 - [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/kth_largest_element_in_an_array.py)
 - [旋转链表](https://leetcode-cn.com/problems/rotate-list/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/rotate_list.py)
 - [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/intersection_of_two_linked_lists.py)
-- [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py)
+- [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py)
+- [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/product_of_array_except_self.py)
 
