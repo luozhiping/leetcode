@@ -38,4 +38,5 @@ leetcode刷题笔记
 - [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py)
 - [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/product_of_array_except_self.py)
 - [螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/spiral_matrix_ii.py)
+- [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/multiply_strings.py)
 
