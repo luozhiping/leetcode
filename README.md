@@ -40,4 +40,5 @@ leetcode刷题笔记
 - [螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/spiral_matrix_ii.py)
 - [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/multiply_strings.py)
 - [格雷编码](https://leetcode-cn.com/problems/gray-code/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/gray_code.py)
+- [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/3sum_closest.py)
 
