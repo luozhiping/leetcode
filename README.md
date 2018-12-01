@@ -41,4 +41,5 @@ leetcode刷题笔记
 - [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/multiply_strings.py)
 - [格雷编码](https://leetcode-cn.com/problems/gray-code/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/gray_code.py)
 - [最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/3sum_closest.py)
+- [搜索旋转排列数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) [code](https://github.com/luozhiping/leetcode/blob/master/2018tencent50/middle/search_in_rotated_sorted_array.py)
 
