@@ -31,4 +31,4 @@ leetcode刷题笔记
 
 ## Middle
 
-96.不同的二叉搜索树[unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)[code](./middle/unique_binary_search_trees.py)
+96.不同的二叉搜索树  [unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)  [code](./middle/unique_binary_search_trees.py)
