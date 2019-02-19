@@ -31,4 +31,6 @@ leetcode刷题笔记
 
 ## Middle
 
-96.不同的二叉搜索树  [unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/)  [code](./middle/unique_binary_search_trees.py)
+96. 不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  [code](./middle/unique_binary_search_trees.py)
+
+821. 字符的最短距离([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))  [code](./easy/shortest_distance_to_a_character.py)
