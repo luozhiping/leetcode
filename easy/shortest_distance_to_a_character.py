@@ -13,7 +13,6 @@ class Solution(object):
         for i in range(l):
             if S[i] == C:
                 pos.append(i)
-        print(pos)
 
         result = []
         for i in range(l):
@@ -30,8 +29,6 @@ class Solution(object):
                         result.append(i - pos[j])
                         break
         return result
-
-
 
 s = Solution()
 print(s.shortestToChar("abba", "b"))
