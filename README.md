@@ -41,8 +41,10 @@ leetcode刷题笔记
 59.螺旋矩阵II([spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/))    ([***code***](./2018tencent50/middle/spiral_matrix_ii.py))<br>
 61.旋转链表([rotate-list](https://leetcode-cn.com/problems/rotate-list/))([***code***](./2018tencent50/middle/rotate_list.py))<br>
 62.不同路径([unique-paths](https://leetcode-cn.com/problems/unique-paths/))  ([***code***](./2018tencent50/middle/unique_paths.py))<br>
+75.颜色分类([sort-colors](https://leetcode-cn.com/problems/sort-colors/))  ([***code***](./middle/sort_colors.py))<br>
 78.子集([subsets](https://leetcode-cn.com/problems/subsets/))  ([***code***](./2018tencent50/middle/subsets.py))<br>
-89.格雷编码([gray-***code***](https://leetcode-cn.com/problems/gray-***code***/))    ([***code***](./2018tencent50/middle/gray_***code***.py))<br>
+79.单词搜索([word-search](https://leetcode-cn.com/problems/word-search/))  ([***code***](./middle/word_search.py))<br>
+89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_***code***.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 148.排序链表([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
@@ -51,3 +53,4 @@ leetcode刷题笔记
 230.二叉搜索树中第K小的元素([kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/))   ([***code***](./2018tencent50/middle/kth_smallest_element_in_a_bst.py))<br>
 236.二叉搜索树的最近公共祖先([lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))   ([***code***](./2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py))<br>
 238.除自身以外数组的乘积([product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/))   ([***code***](./2018tencent50/middle/product_of_array_except_self.py))<br>
+274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./2018tencent50/middle/h_index.py))<br>
