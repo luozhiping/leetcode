@@ -8,7 +8,12 @@ class Solution(object):
         :type b: int
         :rtype: int
         """
-        return a if b == 0 else self.getSum(a^b, (a&b)<<1)
+
+        while b != 0:
+            carry = a & b
+            a = (a ^ b) % 0x100000000
+            b = (carry << 1) % 0x100000000
+        return a if a <= 0x7FFFFFFF else a | (~0x100000000 + 1)
 
 s = Solution()
-print(s.getSum(1, 20))
+print(s.getSum(-1, 1))
