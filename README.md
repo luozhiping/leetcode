@@ -56,4 +56,4 @@ leetcode刷题笔记
 238.除自身以外数组的乘积([product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/))   ([***code***](./2018tencent50/middle/product_of_array_except_self.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
-287.两整数之和([comments](https://leetcode-cn.com/problems/comments/))   ([***code***](./middle/comments.py))<br>
+371.两整数之和([submissions](https://leetcode-cn.com/problems/submissions/))   ([***code***](./middle/submissions.py))<br>
