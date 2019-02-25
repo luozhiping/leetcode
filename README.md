@@ -1,5 +1,5 @@
 # leetcode
-leetcode刷题笔记
+leetcode刷题笔记  （Python3）
 
 ## Easy
 
@@ -57,3 +57,5 @@ leetcode刷题笔记
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
+990.等式方程的可满足性([satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/))   ([***code***](./middle/satisfiability_of_equality_equations.py))<br>
+991.坏了的计算器([broken-calculator](https://leetcode-cn.com/problems/broken-calculator/))   ([***code***](./middle/broken_calculator.py))<br>
