@@ -56,6 +56,9 @@ leetcode刷题笔记  （Python3）
 238.除自身以外数组的乘积([product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/))   ([***code***](./2018tencent50/middle/product_of_array_except_self.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
+365.水壶问题([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
+319.灯泡开关([bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/))   ([***code***](./middle/bulb_switcher.py))<br>
+357.计算各个位数不同的数字个数([count-numbers-with-unique-digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/))   ([***code***](./middle/count_numbers_with_unique_digits.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 498.对角线遍历([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
