@@ -35,6 +35,8 @@ leetcode刷题笔记  （Python3）
 11.盛最多水的容器([container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/)) ([***code***](./2018tencent50/middle/container_with_most_water.py))<br>
 16.最接近的三数之和([3sum-closest](https://leetcode-cn.com/problems/3sum-closest/))  ([***code***](./2018tencent50/middle/3sum_closest.py))<br>
 19.删除链表的倒数第N个节点([remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/))  ([***code***](./middle/remove_nth_node_from_end_of_list.py))<br>
+22.括号生成([generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/))  ([***code***](./middle/generate_parentheses.py))<br>
+25.k个一组翻转链表([reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/))  ([***code***](./middle/reverse_nodes_in_k_group.py))<br>
 33.搜索旋转排列数组([search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/))  ([***code***](./2018tencent50/middle/search_in_rotated_sorted_array.py))<br>
 43.字符串相乘([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
 54.螺旋矩阵([spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/))    ([***code***](./2018tencent50/middle/spiral_matrix.py))<br>
