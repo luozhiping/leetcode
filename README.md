@@ -43,11 +43,14 @@ leetcode刷题笔记  （Python3）
 59.螺旋矩阵II([spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/))    ([***code***](./2018tencent50/middle/spiral_matrix_ii.py))<br>
 61.旋转链表([rotate-list](https://leetcode-cn.com/problems/rotate-list/))([***code***](./2018tencent50/middle/rotate_list.py))<br>
 62.不同路径([unique-paths](https://leetcode-cn.com/problems/unique-paths/))  ([***code***](./2018tencent50/middle/unique_paths.py))<br>
+73.矩阵置零([set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/))  ([***code***](./middle/set_matrix_zeroes.py))<br>
 75.颜色分类([sort-colors](https://leetcode-cn.com/problems/sort-colors/))  ([***code***](./middle/sort_colors.py))<br>
 77.组合([combinations](https://leetcode-cn.com/problems/combinations/))  ([***code***](./middle/combinations.py))<br>
 78.子集([subsets](https://leetcode-cn.com/problems/subsets/))  ([***code***](./2018tencent50/middle/subsets.py))<br>
 79.单词搜索([word-search](https://leetcode-cn.com/problems/word-search/))  ([***code***](./middle/word_search.py))<br>
-89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_***code***.py))<br>
+82.删除排序链表中的重复元素 II([remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_list_ii.py))<br>
+89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
+94.二叉树的中序遍历([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 148.排序链表([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
