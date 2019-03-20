@@ -23,6 +23,7 @@ leetcode刷题笔记  （Python3）
 237.删除链表中的节点([delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)) ([***code***](./2018tencent50/easy/delete_node_in_a_linked_list.py))<br>
 292.Nim游戏([nim-game](https://leetcode-cn.com/problems/nim-game/))    ([***code***](./2018tencent50/easy/nim_game.py))<br>
 344.反转字符串([reverse-string](https://leetcode-cn.com/problems/reverse-string/))    ([***code***](./2018tencent50/easy/reverse_string.py))<br>
+387.字符串中的第一个唯一字符([first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/))    ([***code***](./easy/first_unique_character_in_a_string.py))<br>
 557.反转字符串中的单词 III([reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/))  ([***code***](./2018tencent50/easy/reverse_words_in_a_string_iii.py))<br>
 821.字符的最短距离([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))    ([***code***](./easy/shortest_distance_to_a_character.py))<br>
 
@@ -49,11 +50,14 @@ leetcode刷题笔记  （Python3）
 77.组合([combinations](https://leetcode-cn.com/problems/combinations/))  ([***code***](./middle/combinations.py))<br>
 78.子集([subsets](https://leetcode-cn.com/problems/subsets/))  ([***code***](./2018tencent50/middle/subsets.py))<br>
 79.单词搜索([word-search](https://leetcode-cn.com/problems/word-search/))  ([***code***](./middle/word_search.py))<br>
+81.搜索旋转排序数组 II([search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/))  ([***code***](./middle/search_in_rotated_sorted_array_ii.py))<br>
 82.删除排序链表中的重复元素 II([remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_list_ii.py))<br>
 89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
 94.二叉树的中序遍历([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
 102.二叉树的层次遍历([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
+102.二叉树的层次遍历([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
+127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 144.二叉树的前序遍历([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
 148.排序链表([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
@@ -75,6 +79,7 @@ leetcode刷题笔记  （Python3）
 648.单词替换([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
 667.优美的排列 II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
 842.将数组拆分成斐波那契序列([pancake-sorting](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
+848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
 990.等式方程的可满足性([satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/))   ([***code***](./middle/satisfiability_of_equality_equations.py))<br>
 991.坏了的计算器([broken-calculator](https://leetcode-cn.com/problems/broken-calculator/))   ([***code***](./middle/broken_calculator.py))<br>
