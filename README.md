@@ -55,6 +55,7 @@ leetcode刷题笔记  （Python3）
 89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
 94.二叉树的中序遍历([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
+98.验证二叉搜索树([validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/))  ([***code***](./middle/validate_binary_search_tree.py))<br>
 102.二叉树的层次遍历([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
 102.二叉树的层次遍历([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
@@ -81,7 +82,9 @@ leetcode刷题笔记  （Python3）
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings//))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
 648.单词替换([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
+659.分割数组为连续子序列([split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/))   ([***code***](./middle/split_array_into_consecutive_subsequences.py))<br>
 667.优美的排列 II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
+718.最长重复子数组([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures..py))<br>
 842.将数组拆分成斐波那契序列([pancake-sorting](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
