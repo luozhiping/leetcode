@@ -73,14 +73,17 @@ leetcode刷题笔记  （Python3）
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
 306.累加数([additive-number](https://leetcode-cn.com/problems/additive-number/))   ([***code***](./middle/additive_number.py))<br>
 319.灯泡开关([bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/))   ([***code***](./middle/bulb_switcher.py))<br>
+347.前K个高频元素([top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/))   ([***code***](./middle/top_k_frequent_elements.py))<br>
 357.计算各个位数不同的数字个数([count-numbers-with-unique-digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/))   ([***code***](./middle/count_numbers_with_unique_digits.py))<br>
 365.水壶问题([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
+424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
 491.递增子序列([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
 498.对角线遍历([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings//))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
+647.回文子串([palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/))   ([***code***](./middle/palindromic_substrings.py))<br>
 648.单词替换([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
 659.分割数组为连续子序列([split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/))   ([***code***](./middle/split_array_into_consecutive_subsequences.py))<br>
 667.优美的排列 II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
