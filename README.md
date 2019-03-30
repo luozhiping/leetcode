@@ -34,6 +34,7 @@ leetcode刷题笔记  （Python3）
 6.Z 字形变换([zigzag-conversion](https://leetcode-cn.com/problems/zigzag-conversion/))  ([***code***](./middle/zigzag_conversion.py))<br>
 8.字符串转整数([string-to-integer-atoi](https://leetcode-cn.com/problems/string-to-integer-atoi/)) ([***code***](./2018tencent50/middle/atoi.py))<br>
 11.盛最多水的容器([container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/)) ([***code***](./2018tencent50/middle/container_with_most_water.py))<br>
+15.三数之和([3sum](https://leetcode-cn.com/problems/3sum/))  ([***code***](./2018tencent50/middle/3sum.py))<br>
 16.最接近的三数之和([3sum-closest](https://leetcode-cn.com/problems/3sum-closest/))  ([***code***](./2018tencent50/middle/3sum_closest.py))<br>
 19.删除链表的倒数第N个节点([remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/))  ([***code***](./middle/remove_nth_node_from_end_of_list.py))<br>
 22.括号生成([generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/))  ([***code***](./middle/generate_parentheses.py))<br>
@@ -79,6 +80,7 @@ leetcode刷题笔记  （Python3）
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
 491.递增子序列([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
+494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
 498.对角线遍历([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings//))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
