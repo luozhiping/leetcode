@@ -36,6 +36,7 @@ leetcode刷题笔记  （Python3）
 11.盛最多水的容器([container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/)) ([***code***](./2018tencent50/middle/container_with_most_water.py))<br>
 15.三数之和([3sum](https://leetcode-cn.com/problems/3sum/))  ([***code***](./2018tencent50/middle/3sum.py))<br>
 16.最接近的三数之和([3sum-closest](https://leetcode-cn.com/problems/3sum-closest/))  ([***code***](./2018tencent50/middle/3sum_closest.py))<br>
+17.电话号码的字母组合([letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/))  ([***code***](./middle/letter_combinations_of_a_phone_number.py))<br>
 19.删除链表的倒数第N个节点([remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/))  ([***code***](./middle/remove_nth_node_from_end_of_list.py))<br>
 22.括号生成([generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/))  ([***code***](./middle/generate_parentheses.py))<br>
 25.k个一组翻转链表([reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/))  ([***code***](./middle/reverse_nodes_in_k_group.py))<br>
@@ -51,6 +52,7 @@ leetcode刷题笔记  （Python3）
 77.组合([combinations](https://leetcode-cn.com/problems/combinations/))  ([***code***](./middle/combinations.py))<br>
 78.子集([subsets](https://leetcode-cn.com/problems/subsets/))  ([***code***](./2018tencent50/middle/subsets.py))<br>
 79.单词搜索([word-search](https://leetcode-cn.com/problems/word-search/))  ([***code***](./middle/word_search.py))<br>
+80.删除排序数组中的重复项 II([remove-duplicates-from-sorted-array-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_array_ii.py))<br>
 81.搜索旋转排序数组 II([search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/))  ([***code***](./middle/search_in_rotated_sorted_array_ii.py))<br>
 82.删除排序链表中的重复元素 II([remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_list_ii.py))<br>
 89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
@@ -83,7 +85,8 @@ leetcode刷题笔记  （Python3）
 494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
 498.对角线遍历([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
-583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings//))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
+547.朋友圈([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
+583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
 647.回文子串([palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/))   ([***code***](./middle/palindromic_substrings.py))<br>
 648.单词替换([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
