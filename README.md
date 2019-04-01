@@ -17,6 +17,7 @@ leetcode刷题笔记  （Python3）
 141.环形链表([linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/))   ([***code***](./2018tencent50/easy/linked_list_cycle.py))<br>
 155.最小栈([min-stack](https://leetcode-cn.com/problems/min-stack/))    ([***code***](./2018tencent50/easy/min_stack.py))<br>
 169.求众数([majority-element](https://leetcode-cn.com/problems/majority-element/))  ([***code***](./2018tencent50/easy/majority_element.py))<br>
+205.同构字符串([isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/))   ([***code***](./easy/isomorphic_strings.py))<br>
 206.反转链表([reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/))   ([***code***](./2018tencent50/easy/reverse_linked_list.py))<br>
 217.存在重复元素([contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/))   ([***code***](./2018tencent50/easy/contains_duplicate.py))<br>
 231.2的幂([power-of-two](https://leetcode-cn.com/problems/power-of-two/))  ([***code***](./2018tencent50/easy/power_of_two.py))<br>
@@ -84,6 +85,7 @@ leetcode刷题笔记  （Python3）
 491.递增子序列([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
 494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
 498.对角线遍历([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
+523.连续的子数组和([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
 547.朋友圈([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
@@ -95,6 +97,7 @@ leetcode刷题笔记  （Python3）
 718.最长重复子数组([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures..py))<br>
 807.保持城市天际线([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
+820.单词的压缩编码([short-encoding-of-words](https://leetcode-cn.com/problems/short-encoding-of-words/))   ([***code***](./middle/short_encoding_of_words.py))<br>
 841.钥匙和房间([keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/))   ([***code***](./middle/keys_and_rooms.py))<br>
 842.将数组拆分成斐波那契序列([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
