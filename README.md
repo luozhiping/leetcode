@@ -74,6 +74,7 @@ leetcode刷题笔记  （Python3）
 230.二叉搜索树中第K小的元素([kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/))   ([***code***](./2018tencent50/middle/kth_smallest_element_in_a_bst.py))<br>
 236.二叉搜索树的最近公共祖先([lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))   ([***code***](./2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py))<br>
 238.除自身以外数组的乘积([product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/))   ([***code***](./2018tencent50/middle/product_of_array_except_self.py))<br>
+240.搜索二维矩阵 II([search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/))   ([***code***](./middle/search_a_2d_matrix_ii.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
 306.累加数([additive-number](https://leetcode-cn.com/problems/additive-number/))   ([***code***](./middle/additive_number.py))<br>
@@ -83,6 +84,7 @@ leetcode刷题笔记  （Python3）
 365.水壶问题([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
+442.数组中重复的数据([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
 491.递增子序列([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
 494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
 495.提莫攻击([teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/))   ([***code***](./middle/teemo_attacking.py))<br>
@@ -104,11 +106,13 @@ leetcode刷题笔记  （Python3）
 842.将数组拆分成斐波那契序列([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
 916.单词子集([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
+945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
 990.等式方程的可满足性([satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/))   ([***code***](./middle/satisfiability_of_equality_equations.py))<br>
 991.坏了的计算器([broken-calculator](https://leetcode-cn.com/problems/broken-calculator/))   ([***code***](./middle/broken_calculator.py))<br>
 994.腐烂的橘子([rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges/))   ([***code***](./middle/rotting_oranges.py))<br>
 1008.先序遍历构造二叉树([construct-binary-search-tree-from-preorder-traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/))   ([***code***](./middle/construct_binary_search_tree_from_preorder_traversal.py))<br>
+1017.负二进制转换([convert-to-base-2](https://leetcode-cn.com/problems/convert-to-base-2/))   ([***code***](./middle/convert_to_base_2.py))<br>
 
 ## Difficult
 
