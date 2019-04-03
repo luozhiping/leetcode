@@ -27,6 +27,7 @@ leetcode刷题笔记  （Python3）
 387.字符串中的第一个唯一字符([first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/))    ([***code***](./easy/first_unique_character_in_a_string.py))<br>
 557.反转字符串中的单词 III([reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/))  ([***code***](./2018tencent50/easy/reverse_words_in_a_string_iii.py))<br>
 821.字符的最短距离([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))    ([***code***](./easy/shortest_distance_to_a_character.py))<br>
+1018.可被 5 整除的二进制前缀([binary-prefix-divisible-by-5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))   ([***code***](./easy/binary_prefix_divisible_by_5.py))<br>
 
 ## Middle
 
