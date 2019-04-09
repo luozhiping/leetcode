@@ -1,122 +1,124 @@
 # leetcode
-leetcodeåˆ·é¢˜ç¬”è®°  ï¼ˆPython3ï¼‰
+leetcodeË¢Ìâ±Ê¼Ç  £¨Python3£©
 
 ## Easy
 
-7.åè½¬æ•´æ•°([reverse-integer](https://leetcode-cn.com/problems/reverse-integer/)) ([***code***](./2018tencent50/easy/reverse_integer.py))<br>
-9.å›æ–‡æ•°([palindrome-number](https://leetcode-cn.com/problems/palindrome-number))   ([***code***](./2018tencent50/easy/palindrome_number.py))<br>
-14.æœ€é•¿å…¬å…±å‰ç¼€([longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix))   ([***code***](./2018tencent50/easy/longest_common_prefix.py))<br>
-20.æœ‰æ•ˆçš„æ‹¬å·([valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/))   ([***code***](./2018tencent50/easy/valid_parentheses.py))<br>
-21.åˆå¹¶ä¸¤ä¸ªæœ‰åºåˆ—è¡¨([merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/))  ([***code***](./2018tencent50/easy/merge_two_sorted_lists.py))<br>
-53.æœ€å¤§å­åºåˆ—å’Œ([maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/))    ([***code***](./2018tencent50/easy/maximum_subarray.py))<br>
-70.çˆ¬æ¥¼æ¢¯([climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)) ([***code***](./2018tencent50/easy/climbing_stairs.py))<br>
-88.åˆå¹¶ä¸¤ä¸ªæœ‰åºæ•°ç»„([merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/))  ([***code***](./2018tencent50/easy/merge_sorted_array.py))<br>
-104.äºŒå‰æ ‘çš„æœ€å¤§æ·±åº¦([maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)) ([***code***](./2018tencent50/easy/maximum_depth_of_binary_tree.py))<br>
-121.ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœº([best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/))  ([***code***](./2018tencent50/easy/best_time_to_buy_and_sell_stock.py))<br>
-136.åªå‡ºç°ä¸€æ¬¡çš„æ•°å­—([single-number](https://leetcode-cn.com/problems/single-number/))   ([***code***](./2018tencent50/easy/single_number.py))<br>
-141.ç¯å½¢é“¾è¡¨([linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/))   ([***code***](./2018tencent50/easy/linked_list_cycle.py))<br>
-155.æœ€å°æ ˆ([min-stack](https://leetcode-cn.com/problems/min-stack/))    ([***code***](./2018tencent50/easy/min_stack.py))<br>
-169.æ±‚ä¼—æ•°([majority-element](https://leetcode-cn.com/problems/majority-element/))  ([***code***](./2018tencent50/easy/majority_element.py))<br>
-205.åŒæ„å­—ç¬¦ä¸²([isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/))   ([***code***](./easy/isomorphic_strings.py))<br>
-206.åè½¬é“¾è¡¨([reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/))   ([***code***](./2018tencent50/easy/reverse_linked_list.py))<br>
-217.å­˜åœ¨é‡å¤å…ƒç´ ([contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/))   ([***code***](./2018tencent50/easy/contains_duplicate.py))<br>
-231.2çš„å¹‚([power-of-two](https://leetcode-cn.com/problems/power-of-two/))  ([***code***](./2018tencent50/easy/power_of_two.py))<br>
-237.åˆ é™¤é“¾è¡¨ä¸­çš„èŠ‚ç‚¹([delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)) ([***code***](./2018tencent50/easy/delete_node_in_a_linked_list.py))<br>
-292.Nimæ¸¸æˆ([nim-game](https://leetcode-cn.com/problems/nim-game/))    ([***code***](./2018tencent50/easy/nim_game.py))<br>
-344.åè½¬å­—ç¬¦ä¸²([reverse-string](https://leetcode-cn.com/problems/reverse-string/))    ([***code***](./2018tencent50/easy/reverse_string.py))<br>
-387.å­—ç¬¦ä¸²ä¸­çš„ç¬¬ä¸€ä¸ªå”¯ä¸€å­—ç¬¦([first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/))    ([***code***](./easy/first_unique_character_in_a_string.py))<br>
-557.åè½¬å­—ç¬¦ä¸²ä¸­çš„å•è¯ III([reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/))  ([***code***](./2018tencent50/easy/reverse_words_in_a_string_iii.py))<br>
-821.å­—ç¬¦çš„æœ€çŸ­è·ç¦»([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))    ([***code***](./easy/shortest_distance_to_a_character.py))<br>
-1018.å¯è¢« 5 æ•´é™¤çš„äºŒè¿›åˆ¶å‰ç¼€([binary-prefix-divisible-by-5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))   ([***code***](./easy/binary_prefix_divisible_by_5.py))<br>
+7.·´×ªÕûÊı([reverse-integer](https://leetcode-cn.com/problems/reverse-integer/)) ([***code***](./2018tencent50/easy/reverse_integer.py))<br>
+9.»ØÎÄÊı([palindrome-number](https://leetcode-cn.com/problems/palindrome-number))   ([***code***](./2018tencent50/easy/palindrome_number.py))<br>
+14.×î³¤¹«¹²Ç°×º([longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix))   ([***code***](./2018tencent50/easy/longest_common_prefix.py))<br>
+20.ÓĞĞ§µÄÀ¨ºÅ([valid-parentheses](https://leetcode-cn.com/problems/valid-parentheses/))   ([***code***](./2018tencent50/easy/valid_parentheses.py))<br>
+21.ºÏ²¢Á½¸öÓĞĞòÁĞ±í([merge-two-sorted-lists](https://leetcode-cn.com/problems/merge-two-sorted-lists/))  ([***code***](./2018tencent50/easy/merge_two_sorted_lists.py))<br>
+53.×î´ó×ÓĞòÁĞºÍ([maximum-subarray](https://leetcode-cn.com/problems/maximum-subarray/))    ([***code***](./2018tencent50/easy/maximum_subarray.py))<br>
+70.ÅÀÂ¥Ìİ([climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)) ([***code***](./2018tencent50/easy/climbing_stairs.py))<br>
+88.ºÏ²¢Á½¸öÓĞĞòÊı×é([merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/))  ([***code***](./2018tencent50/easy/merge_sorted_array.py))<br>
+104.¶ş²æÊ÷µÄ×î´óÉî¶È([maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)) ([***code***](./2018tencent50/easy/maximum_depth_of_binary_tree.py))<br>
+121.ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú([best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/))  ([***code***](./2018tencent50/easy/best_time_to_buy_and_sell_stock.py))<br>
+136.Ö»³öÏÖÒ»´ÎµÄÊı×Ö([single-number](https://leetcode-cn.com/problems/single-number/))   ([***code***](./2018tencent50/easy/single_number.py))<br>
+141.»·ĞÎÁ´±í([linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/))   ([***code***](./2018tencent50/easy/linked_list_cycle.py))<br>
+155.×îĞ¡Õ»([min-stack](https://leetcode-cn.com/problems/min-stack/))    ([***code***](./2018tencent50/easy/min_stack.py))<br>
+169.ÇóÖÚÊı([majority-element](https://leetcode-cn.com/problems/majority-element/))  ([***code***](./2018tencent50/easy/majority_element.py))<br>
+205.Í¬¹¹×Ö·û´®([isomorphic-strings](https://leetcode-cn.com/problems/isomorphic-strings/))   ([***code***](./easy/isomorphic_strings.py))<br>
+206.·´×ªÁ´±í([reverse-linked-list](https://leetcode-cn.com/problems/reverse-linked-list/))   ([***code***](./2018tencent50/easy/reverse_linked_list.py))<br>
+217.´æÔÚÖØ¸´ÔªËØ([contains-duplicate](https://leetcode-cn.com/problems/contains-duplicate/))   ([***code***](./2018tencent50/easy/contains_duplicate.py))<br>
+231.2µÄÃİ([power-of-two](https://leetcode-cn.com/problems/power-of-two/))  ([***code***](./2018tencent50/easy/power_of_two.py))<br>
+237.É¾³ıÁ´±íÖĞµÄ½Úµã([delete-node-in-a-linked-list](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/)) ([***code***](./2018tencent50/easy/delete_node_in_a_linked_list.py))<br>
+292.NimÓÎÏ·([nim-game](https://leetcode-cn.com/problems/nim-game/))    ([***code***](./2018tencent50/easy/nim_game.py))<br>
+344.·´×ª×Ö·û´®([reverse-string](https://leetcode-cn.com/problems/reverse-string/))    ([***code***](./2018tencent50/easy/reverse_string.py))<br>
+387.×Ö·û´®ÖĞµÄµÚÒ»¸öÎ¨Ò»×Ö·û([first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/))    ([***code***](./easy/first_unique_character_in_a_string.py))<br>
+557.·´×ª×Ö·û´®ÖĞµÄµ¥´Ê III([reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/))  ([***code***](./2018tencent50/easy/reverse_words_in_a_string_iii.py))<br>
+821.×Ö·ûµÄ×î¶Ì¾àÀë([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))    ([***code***](./easy/shortest_distance_to_a_character.py))<br>
+1018.¿É±» 5 Õû³ıµÄ¶ş½øÖÆÇ°×º([binary-prefix-divisible-by-5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))   ([***code***](./easy/binary_prefix_divisible_by_5.py))<br>
 
 ## Middle
 
-3.æ— é‡å¤å­—ç¬¦çš„æœ€é•¿å­ä¸²([longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/))  ([***code***](./middle/longest_substring_without_repeating_characters.py))<br>
-5.æœ€é•¿å›æ–‡å­ä¸²([longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/))   ([***code***](./2018tencent50/middle/longest_palindromic_substring.py))<br>
-6.Z å­—å½¢å˜æ¢([zigzag-conversion](https://leetcode-cn.com/problems/zigzag-conversion/))  ([***code***](./middle/zigzag_conversion.py))<br>
-8.å­—ç¬¦ä¸²è½¬æ•´æ•°([string-to-integer-atoi](https://leetcode-cn.com/problems/string-to-integer-atoi/)) ([***code***](./2018tencent50/middle/atoi.py))<br>
-11.ç››æœ€å¤šæ°´çš„å®¹å™¨([container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/)) ([***code***](./2018tencent50/middle/container_with_most_water.py))<br>
-15.ä¸‰æ•°ä¹‹å’Œ([3sum](https://leetcode-cn.com/problems/3sum/))  ([***code***](./2018tencent50/middle/3sum.py))<br>
-16.æœ€æ¥è¿‘çš„ä¸‰æ•°ä¹‹å’Œ([3sum-closest](https://leetcode-cn.com/problems/3sum-closest/))  ([***code***](./2018tencent50/middle/3sum_closest.py))<br>
-17.ç”µè¯å·ç çš„å­—æ¯ç»„åˆ([letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/))  ([***code***](./middle/letter_combinations_of_a_phone_number.py))<br>
-19.åˆ é™¤é“¾è¡¨çš„å€’æ•°ç¬¬Nä¸ªèŠ‚ç‚¹([remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/))  ([***code***](./middle/remove_nth_node_from_end_of_list.py))<br>
-22.æ‹¬å·ç”Ÿæˆ([generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/))  ([***code***](./middle/generate_parentheses.py))<br>
-25.kä¸ªä¸€ç»„ç¿»è½¬é“¾è¡¨([reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/))  ([***code***](./middle/reverse_nodes_in_k_group.py))<br>
-33.æœç´¢æ—‹è½¬æ’åˆ—æ•°ç»„([search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/))  ([***code***](./2018tencent50/middle/search_in_rotated_sorted_array.py))<br>
-43.å­—ç¬¦ä¸²ç›¸ä¹˜([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
-54.èºæ—‹çŸ©é˜µ([spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/))    ([***code***](./2018tencent50/middle/spiral_matrix.py))<br>
-57.æ’å…¥åŒºé—´([spiral-matrix-ii](https://leetcode-cn.com/problems/insert-interval/))    ([***code***](./middle/insert_interval.py))<br>
-59.èºæ—‹çŸ©é˜µII([spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/))    ([***code***](./2018tencent50/middle/spiral_matrix_ii.py))<br>
-61.æ—‹è½¬é“¾è¡¨([rotate-list](https://leetcode-cn.com/problems/rotate-list/))([***code***](./2018tencent50/middle/rotate_list.py))<br>
-62.ä¸åŒè·¯å¾„([unique-paths](https://leetcode-cn.com/problems/unique-paths/))  ([***code***](./2018tencent50/middle/unique_paths.py))<br>
-73.çŸ©é˜µç½®é›¶([set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/))  ([***code***](./middle/set_matrix_zeroes.py))<br>
-74.æœç´¢äºŒç»´çŸ©é˜µ([search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/))  ([***code***](./middle/search_a_2d_matrix.py))<br>
-75.é¢œè‰²åˆ†ç±»([sort-colors](https://leetcode-cn.com/problems/sort-colors/))  ([***code***](./middle/sort_colors.py))<br>
-77.ç»„åˆ([combinations](https://leetcode-cn.com/problems/combinations/))  ([***code***](./middle/combinations.py))<br>
-78.å­é›†([subsets](https://leetcode-cn.com/problems/subsets/))  ([***code***](./2018tencent50/middle/subsets.py))<br>
-79.å•è¯æœç´¢([word-search](https://leetcode-cn.com/problems/word-search/))  ([***code***](./middle/word_search.py))<br>
-80.åˆ é™¤æ’åºæ•°ç»„ä¸­çš„é‡å¤é¡¹ II([remove-duplicates-from-sorted-array-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_array_ii.py))<br>
-81.æœç´¢æ—‹è½¬æ’åºæ•°ç»„ II([search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/))  ([***code***](./middle/search_in_rotated_sorted_array_ii.py))<br>
-82.åˆ é™¤æ’åºé“¾è¡¨ä¸­çš„é‡å¤å…ƒç´  II([remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_list_ii.py))<br>
-89.æ ¼é›·ç¼–ç ([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
-94.äºŒå‰æ ‘çš„ä¸­åºéå†([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
-96.ä¸åŒçš„äºŒå‰æœç´¢æ ‘([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
-98.éªŒè¯äºŒå‰æœç´¢æ ‘([validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/))  ([***code***](./middle/validate_binary_search_tree.py))<br>
-102.äºŒå‰æ ‘çš„å±‚æ¬¡éå†([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
-105.ä»å‰åºä¸ä¸­åºéå†åºåˆ—æ„é€ äºŒå‰æ ‘([construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_preorder_and_inorder_traversal.py))<br>
-127.å•è¯æ¥é¾™([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
-142.ç¯å½¢åˆ—è¡¨ II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
-144.äºŒå‰æ ‘çš„å‰åºéå†([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
-148.æ’åºé“¾è¡¨([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
-160.ç›¸äº¤é“¾è¡¨([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
-165.æ¯”è¾ƒç‰ˆæœ¬å·([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
-179.æœ€å¤§æ•°([largest-number](https://leetcode-cn.com/problems/largest-number/)) ([***code***](./middle/largest_number.py))<br>
-215.æ•°ç»„ä¸­çš„ç¬¬Kä¸ªæœ€å¤§å…ƒç´ ([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
-230.äºŒå‰æœç´¢æ ‘ä¸­ç¬¬Kå°çš„å…ƒç´ ([kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/))   ([***code***](./2018tencent50/middle/kth_smallest_element_in_a_bst.py))<br>
-236.äºŒå‰æœç´¢æ ‘çš„æœ€è¿‘å…¬å…±ç¥–å…ˆ([lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))   ([***code***](./2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py))<br>
-238.é™¤è‡ªèº«ä»¥å¤–æ•°ç»„çš„ä¹˜ç§¯([product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/))   ([***code***](./2018tencent50/middle/product_of_array_except_self.py))<br>
-240.æœç´¢äºŒç»´çŸ©é˜µ II([search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/))   ([***code***](./middle/search_a_2d_matrix_ii.py))<br>
-274.HæŒ‡æ•°([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
-287.å¯»æ‰¾é‡å¤æ•°([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
-306.ç´¯åŠ æ•°([additive-number](https://leetcode-cn.com/problems/additive-number/))   ([***code***](./middle/additive_number.py))<br>
-319.ç¯æ³¡å¼€å…³([bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/))   ([***code***](./middle/bulb_switcher.py))<br>
-347.å‰Kä¸ªé«˜é¢‘å…ƒç´ ([top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/))   ([***code***](./middle/top_k_frequent_elements.py))<br>
-357.è®¡ç®—å„ä¸ªä½æ•°ä¸åŒçš„æ•°å­—ä¸ªæ•°([count-numbers-with-unique-digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/))   ([***code***](./middle/count_numbers_with_unique_digits.py))<br>
-365.æ°´å£¶é—®é¢˜([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
-371.ä¸¤æ•´æ•°ä¹‹å’Œ([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
-338.æ¯”ç‰¹ä½è®¡æ•°([counting-bits](https://leetcode-cn.com/problems/counting-bits/))   ([***code***](./middle/counting_bits.py))<br>
-395.è‡³å°‘æœ‰Kä¸ªé‡å¤å­—ç¬¦çš„æœ€é•¿å­ä¸²([longest-substring-with-at-least-k-repeating-characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/))   ([***code***](./middle/longest_substring_with_at_least_k_repeating_characters.py))<br>
-424.æ›¿æ¢åçš„æœ€é•¿é‡å¤å­—ç¬¦([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
-442.æ•°ç»„ä¸­é‡å¤çš„æ•°æ®([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
-491.é€’å¢å­åºåˆ—([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
-494.ç›®æ ‡å’Œ([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
-495.æè«æ”»å‡»([teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/))   ([***code***](./middle/teemo_attacking.py))<br>
-498.å¯¹è§’çº¿éå†([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
-523.è¿ç»­çš„å­æ•°ç»„å’Œ([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
-529.æ‰«é›·æ¸¸æˆ([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
-547.æœ‹å‹åœˆ([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
-583.ä¸¤ä¸ªå­—ç¬¦ä¸²çš„åˆ é™¤æ“ä½œ([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
-638.å¤§ç¤¼åŒ…([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
-647.å›æ–‡å­ä¸²([palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/))   ([***code***](./middle/palindromic_substrings.py))<br>
-648.å•è¯æ›¿æ¢([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
-659.åˆ†å‰²æ•°ç»„ä¸ºè¿ç»­å­åºåˆ—([split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/))   ([***code***](./middle/split_array_into_consecutive_subsequences.py))<br>
-667.ä¼˜ç¾çš„æ’åˆ— II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
-718.æœ€é•¿é‡å¤å­æ•°ç»„([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
-739.æ¯æ—¥æ¸©åº¦([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures..py))<br>
-807.ä¿æŒåŸå¸‚å¤©é™…çº¿([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
-820.å•è¯çš„å‹ç¼©ç¼–ç ([short-encoding-of-words](https://leetcode-cn.com/problems/short-encoding-of-words/))   ([***code***](./middle/short_encoding_of_words.py))<br>
-841.é’¥åŒ™å’Œæˆ¿é—´([keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/))   ([***code***](./middle/keys_and_rooms.py))<br>
-842.å°†æ•°ç»„æ‹†åˆ†æˆæ–æ³¢é‚£å¥‘åºåˆ—([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
-848.å­—æ¯ç§»ä½([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
-916.å•è¯å­é›†([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
-945.ä½¿æ•°ç»„å”¯ä¸€çš„æœ€å°å¢é‡([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
-969.ç…é¥¼æ’åº([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
-990.ç­‰å¼æ–¹ç¨‹çš„å¯æ»¡è¶³æ€§([satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/))   ([***code***](./middle/satisfiability_of_equality_equations.py))<br>
-991.åäº†çš„è®¡ç®—å™¨([broken-calculator](https://leetcode-cn.com/problems/broken-calculator/))   ([***code***](./middle/broken_calculator.py))<br>
-994.è…çƒ‚çš„æ©˜å­([rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges/))   ([***code***](./middle/rotting_oranges.py))<br>
-1008.å…ˆåºéå†æ„é€ äºŒå‰æ ‘([construct-binary-search-tree-from-preorder-traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/))   ([***code***](./middle/construct_binary_search_tree_from_preorder_traversal.py))<br>
-1017.è´ŸäºŒè¿›åˆ¶è½¬æ¢([convert-to-base-2](https://leetcode-cn.com/problems/convert-to-base-2/))   ([***code***](./middle/convert_to_base_2.py))<br>
+3.ÎŞÖØ¸´×Ö·ûµÄ×î³¤×Ó´®([longest-substring-without-repeating-characters](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/))  ([***code***](./middle/longest_substring_without_repeating_characters.py))<br>
+5.×î³¤»ØÎÄ×Ó´®([longest-palindromic-substring](https://leetcode-cn.com/problems/longest-palindromic-substring/))   ([***code***](./2018tencent50/middle/longest_palindromic_substring.py))<br>
+6.Z ×ÖĞÎ±ä»»([zigzag-conversion](https://leetcode-cn.com/problems/zigzag-conversion/))  ([***code***](./middle/zigzag_conversion.py))<br>
+8.×Ö·û´®×ªÕûÊı([string-to-integer-atoi](https://leetcode-cn.com/problems/string-to-integer-atoi/)) ([***code***](./2018tencent50/middle/atoi.py))<br>
+11.Ê¢×î¶àË®µÄÈİÆ÷([container-with-most-water](https://leetcode-cn.com/problems/container-with-most-water/)) ([***code***](./2018tencent50/middle/container_with_most_water.py))<br>
+15.ÈıÊıÖ®ºÍ([3sum](https://leetcode-cn.com/problems/3sum/))  ([***code***](./2018tencent50/middle/3sum.py))<br>
+16.×î½Ó½üµÄÈıÊıÖ®ºÍ([3sum-closest](https://leetcode-cn.com/problems/3sum-closest/))  ([***code***](./2018tencent50/middle/3sum_closest.py))<br>
+17.µç»°ºÅÂëµÄ×ÖÄ¸×éºÏ([letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/))  ([***code***](./middle/letter_combinations_of_a_phone_number.py))<br>
+19.É¾³ıÁ´±íµÄµ¹ÊıµÚN¸ö½Úµã([remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/))  ([***code***](./middle/remove_nth_node_from_end_of_list.py))<br>
+22.À¨ºÅÉú³É([generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/))  ([***code***](./middle/generate_parentheses.py))<br>
+25.k¸öÒ»×é·­×ªÁ´±í([reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/))  ([***code***](./middle/reverse_nodes_in_k_group.py))<br>
+33.ËÑË÷Ğı×ªÅÅÁĞÊı×é([search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/))  ([***code***](./2018tencent50/middle/search_in_rotated_sorted_array.py))<br>
+39.×éºÏ×ÜºÍ([combination-sum](https://leetcode-cn.com/problems/combination-sum/)) ([***code***](./middle/combination_sum.py))<br>
+43.×Ö·û´®Ïà³Ë([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
+54.ÂİĞı¾ØÕó([spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/))    ([***code***](./2018tencent50/middle/spiral_matrix.py))<br>
+56.ºÏ²¢Çø¼ä([merge-intervals](https://leetcode-cn.com/problems/merge-intervals/))    ([***code***](./middle/merge_intervals.py))<br>
+57.²åÈëÇø¼ä([spiral-matrix-ii](https://leetcode-cn.com/problems/insert-interval/))    ([***code***](./middle/insert_interval.py))<br>
+59.ÂİĞı¾ØÕóII([spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/))    ([***code***](./2018tencent50/middle/spiral_matrix_ii.py))<br>
+61.Ğı×ªÁ´±í([rotate-list](https://leetcode-cn.com/problems/rotate-list/))([***code***](./2018tencent50/middle/rotate_list.py))<br>
+62.²»Í¬Â·¾¶([unique-paths](https://leetcode-cn.com/problems/unique-paths/))  ([***code***](./2018tencent50/middle/unique_paths.py))<br>
+73.¾ØÕóÖÃÁã([set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/))  ([***code***](./middle/set_matrix_zeroes.py))<br>
+74.ËÑË÷¶şÎ¬¾ØÕó([search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/))  ([***code***](./middle/search_a_2d_matrix.py))<br>
+75.ÑÕÉ«·ÖÀà([sort-colors](https://leetcode-cn.com/problems/sort-colors/))  ([***code***](./middle/sort_colors.py))<br>
+77.×éºÏ([combinations](https://leetcode-cn.com/problems/combinations/))  ([***code***](./middle/combinations.py))<br>
+78.×Ó¼¯([subsets](https://leetcode-cn.com/problems/subsets/))  ([***code***](./2018tencent50/middle/subsets.py))<br>
+79.µ¥´ÊËÑË÷([word-search](https://leetcode-cn.com/problems/word-search/))  ([***code***](./middle/word_search.py))<br>
+80.É¾³ıÅÅĞòÊı×éÖĞµÄÖØ¸´Ïî II([remove-duplicates-from-sorted-array-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_array_ii.py))<br>
+81.ËÑË÷Ğı×ªÅÅĞòÊı×é II([search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/))  ([***code***](./middle/search_in_rotated_sorted_array_ii.py))<br>
+82.É¾³ıÅÅĞòÁ´±íÖĞµÄÖØ¸´ÔªËØ II([remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_list_ii.py))<br>
+89.¸ñÀ×±àÂë([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
+94.¶ş²æÊ÷µÄÖĞĞò±éÀú([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
+96.²»Í¬µÄ¶ş²æËÑË÷Ê÷([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
+98.ÑéÖ¤¶ş²æËÑË÷Ê÷([validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/))  ([***code***](./middle/validate_binary_search_tree.py))<br>
+102.¶ş²æÊ÷µÄ²ã´Î±éÀú([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
+105.´ÓÇ°ĞòÓëÖĞĞò±éÀúĞòÁĞ¹¹Ôì¶ş²æÊ÷([construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_preorder_and_inorder_traversal.py))<br>
+127.µ¥´Ê½ÓÁú([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
+142.»·ĞÎÁĞ±í II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
+144.¶ş²æÊ÷µÄÇ°Ğò±éÀú([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
+148.ÅÅĞòÁ´±í([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
+160.Ïà½»Á´±í([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
+165.±È½Ï°æ±¾ºÅ([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
+179.×î´óÊı([largest-number](https://leetcode-cn.com/problems/largest-number/)) ([***code***](./middle/largest_number.py))<br>
+215.Êı×éÖĞµÄµÚK¸ö×î´óÔªËØ([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
+230.¶ş²æËÑË÷Ê÷ÖĞµÚKĞ¡µÄÔªËØ([kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/))   ([***code***](./2018tencent50/middle/kth_smallest_element_in_a_bst.py))<br>
+236.¶ş²æËÑË÷Ê÷µÄ×î½ü¹«¹²×æÏÈ([lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))   ([***code***](./2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py))<br>
+238.³ı×ÔÉíÒÔÍâÊı×éµÄ³Ë»ı([product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/))   ([***code***](./2018tencent50/middle/product_of_array_except_self.py))<br>
+240.ËÑË÷¶şÎ¬¾ØÕó II([search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/))   ([***code***](./middle/search_a_2d_matrix_ii.py))<br>
+274.HÖ¸Êı([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
+287.Ñ°ÕÒÖØ¸´Êı([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
+306.ÀÛ¼ÓÊı([additive-number](https://leetcode-cn.com/problems/additive-number/))   ([***code***](./middle/additive_number.py))<br>
+319.µÆÅİ¿ª¹Ø([bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/))   ([***code***](./middle/bulb_switcher.py))<br>
+347.Ç°K¸ö¸ßÆµÔªËØ([top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/))   ([***code***](./middle/top_k_frequent_elements.py))<br>
+357.¼ÆËã¸÷¸öÎ»Êı²»Í¬µÄÊı×Ö¸öÊı([count-numbers-with-unique-digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/))   ([***code***](./middle/count_numbers_with_unique_digits.py))<br>
+365.Ë®ºøÎÊÌâ([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
+371.Á½ÕûÊıÖ®ºÍ([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
+338.±ÈÌØÎ»¼ÆÊı([counting-bits](https://leetcode-cn.com/problems/counting-bits/))   ([***code***](./middle/counting_bits.py))<br>
+395.ÖÁÉÙÓĞK¸öÖØ¸´×Ö·ûµÄ×î³¤×Ó´®([longest-substring-with-at-least-k-repeating-characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/))   ([***code***](./middle/longest_substring_with_at_least_k_repeating_characters.py))<br>
+424.Ìæ»»ºóµÄ×î³¤ÖØ¸´×Ö·û([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
+442.Êı×éÖĞÖØ¸´µÄÊı¾İ([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
+491.µİÔö×ÓĞòÁĞ([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
+494.Ä¿±êºÍ([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
+495.ÌáÄª¹¥»÷([teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/))   ([***code***](./middle/teemo_attacking.py))<br>
+498.¶Ô½ÇÏß±éÀú([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
+523.Á¬ĞøµÄ×ÓÊı×éºÍ([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
+529.É¨À×ÓÎÏ·([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
+547.ÅóÓÑÈ¦([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
+583.Á½¸ö×Ö·û´®µÄÉ¾³ı²Ù×÷([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
+638.´óÀñ°ü([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
+647.»ØÎÄ×Ó´®([palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/))   ([***code***](./middle/palindromic_substrings.py))<br>
+648.µ¥´ÊÌæ»»([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
+659.·Ö¸îÊı×éÎªÁ¬Ğø×ÓĞòÁĞ([split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/))   ([***code***](./middle/split_array_into_consecutive_subsequences.py))<br>
+667.ÓÅÃÀµÄÅÅÁĞ II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
+718.×î³¤ÖØ¸´×ÓÊı×é([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
+739.Ã¿ÈÕÎÂ¶È([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures..py))<br>
+807.±£³Ö³ÇÊĞÌì¼ÊÏß([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
+820.µ¥´ÊµÄÑ¹Ëõ±àÂë([short-encoding-of-words](https://leetcode-cn.com/problems/short-encoding-of-words/))   ([***code***](./middle/short_encoding_of_words.py))<br>
+841.Ô¿³×ºÍ·¿¼ä([keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/))   ([***code***](./middle/keys_and_rooms.py))<br>
+842.½«Êı×é²ğ·Ö³Éì³²¨ÄÇÆõĞòÁĞ([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
+848.×ÖÄ¸ÒÆÎ»([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
+916.µ¥´Ê×Ó¼¯([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
+945.Ê¹Êı×éÎ¨Ò»µÄ×îĞ¡ÔöÁ¿([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
+969.¼å±ıÅÅĞò([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
+990.µÈÊ½·½³ÌµÄ¿ÉÂú×ãĞÔ([satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/))   ([***code***](./middle/satisfiability_of_equality_equations.py))<br>
+991.»µÁËµÄ¼ÆËãÆ÷([broken-calculator](https://leetcode-cn.com/problems/broken-calculator/))   ([***code***](./middle/broken_calculator.py))<br>
+994.¸¯ÀÃµÄéÙ×Ó([rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges/))   ([***code***](./middle/rotting_oranges.py))<br>
+1008.ÏÈĞò±éÀú¹¹Ôì¶ş²æÊ÷([construct-binary-search-tree-from-preorder-traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/))   ([***code***](./middle/construct_binary_search_tree_from_preorder_traversal.py))<br>
+1017.¸º¶ş½øÖÆ×ª»»([convert-to-base-2](https://leetcode-cn.com/problems/convert-to-base-2/))   ([***code***](./middle/convert_to_base_2.py))<br>
 
 ## Difficult
 
-440.å­—å…¸åºçš„ç¬¬Kå°æ•°å­—([k-th-smallest-in-lexicographical-order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/))  ([***code***](./difficult/k_th_smallest_in_lexicographical_order.py))<br>
+440.×ÖµäĞòµÄµÚKĞ¡Êı×Ö([k-th-smallest-in-lexicographical-order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/))  ([***code***](./difficult/k_th_smallest_in_lexicographical_order.py))<br>
