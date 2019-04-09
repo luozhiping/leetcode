@@ -71,6 +71,8 @@ leetcode刷题笔记  （Python3）
 160.相交链表([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
 165.比较版本号([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
 179.最大数([largest-number](https://leetcode-cn.com/problems/largest-number/)) ([***code***](./middle/largest_number.py))<br>
+209.长度最小的子数组([minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/))    ([***code***](./middle/minimum_size_subarray_sum.py))<br>
+210.课程表 II([course-schedule-ii](https://leetcode-cn.com/problems/course-schedule-ii/))    ([***code***](./middle/course_schedule_ii.py))<br>
 215.数组中的第K个最大元素([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
 230.二叉搜索树中第K小的元素([kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/))   ([***code***](./2018tencent50/middle/kth_smallest_element_in_a_bst.py))<br>
 236.二叉搜索树的最近公共祖先([lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))   ([***code***](./2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py))<br>
@@ -92,6 +94,7 @@ leetcode刷题笔记  （Python3）
 494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
 495.提莫攻击([teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/))   ([***code***](./middle/teemo_attacking.py))<br>
 498.对角线遍历([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
+503.下一个更大元素 II([next-greater-element-ii](https://leetcode-cn.com/problems/next-greater-element-ii/))   ([***code***](./middle/next-greater-element-ii.py))<br>
 523.连续的子数组和([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
 547.朋友圈([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
