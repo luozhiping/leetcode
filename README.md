@@ -61,6 +61,7 @@ leetcode刷题笔记  （Python3）
 81.搜索旋转排序数组 II([search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/))  ([***code***](./middle/search_in_rotated_sorted_array_ii.py))<br>
 82.删除排序链表中的重复元素 II([remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_list_ii.py))<br>
 89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
+91.解码方法([decode-ways](https://leetcode-cn.com/problems/decode-ways/))    ([***code***](./middle/decode_ways.py))<br>
 94.二叉树的中序遍历([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
 98.验证二叉搜索树([validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/))  ([***code***](./middle/validate_binary_search_tree.py))<br>
