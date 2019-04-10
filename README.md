@@ -41,6 +41,7 @@ leetcode刷题笔记  （Python3）
 17.电话号码的字母组合([letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/))  ([***code***](./middle/letter_combinations_of_a_phone_number.py))<br>
 19.删除链表的倒数第N个节点([remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/))  ([***code***](./middle/remove_nth_node_from_end_of_list.py))<br>
 22.括号生成([generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/))  ([***code***](./middle/generate_parentheses.py))<br>
+24.两两交换链表中的节点([swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/))  ([***code***](./middle/swap_nodes_in_pairs.py))<br>
 25.k个一组翻转链表([reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/))  ([***code***](./middle/reverse_nodes_in_k_group.py))<br>
 33.搜索旋转排列数组([search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/))  ([***code***](./2018tencent50/middle/search_in_rotated_sorted_array.py))<br>
 39.组合总和([combination-sum](https://leetcode-cn.com/problems/combination-sum/)) ([***code***](./middle/combination_sum.py))<br>
@@ -60,7 +61,9 @@ leetcode刷题笔记  （Python3）
 80.删除排序数组中的重复项 II([remove-duplicates-from-sorted-array-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_array_ii.py))<br>
 81.搜索旋转排序数组 II([search-in-rotated-sorted-array-ii](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/))  ([***code***](./middle/search_in_rotated_sorted_array_ii.py))<br>
 82.删除排序链表中的重复元素 II([remove-duplicates-from-sorted-list-ii](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/))  ([***code***](./middle/remove_duplicates_from_sorted_list_ii.py))<br>
+86.分隔链表([partition-list](https://leetcode-cn.com/problems/partition-list/))    ([***code***](./2018tencent50/middle/partition_list.py))<br>
 89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
+90.子集 II([subsets-ii](https://leetcode-cn.com/problems/subsets-ii/))    ([***code***](./middle/subsets_ii.py))<br>
 91.解码方法([decode-ways](https://leetcode-cn.com/problems/decode-ways/))    ([***code***](./middle/decode_ways.py))<br>
 94.二叉树的中序遍历([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
