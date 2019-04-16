@@ -70,6 +70,7 @@ leetcode刷题笔记  （Python3）
 98.验证二叉搜索树([validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/))  ([***code***](./middle/validate_binary_search_tree.py))<br>
 102.二叉树的层次遍历([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
 105.从前序与中序遍历序列构造二叉树([construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_preorder_and_inorder_traversal.py))<br>
+106.从中序与后序遍历序列构造二叉树([construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_inorder_and_postorder_traversal.py))<br>
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 144.二叉树的前序遍历([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
