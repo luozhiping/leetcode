@@ -43,6 +43,7 @@ leetcode刷题笔记  （Python3）
 22.括号生成([generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/))  ([***code***](./middle/generate_parentheses.py))<br>
 24.两两交换链表中的节点([swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/))  ([***code***](./middle/swap_nodes_in_pairs.py))<br>
 25.k个一组翻转链表([reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/))  ([***code***](./middle/reverse_nodes_in_k_group.py))<br>
+31.下一个排列([next-permutation](https://leetcode-cn.com/problems/next-permutation/))  ([***code***](./middle/next_permutation.py))<br>
 33.搜索旋转排列数组([search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/))  ([***code***](./2018tencent50/middle/search_in_rotated_sorted_array.py))<br>
 39.组合总和([combination-sum](https://leetcode-cn.com/problems/combination-sum/)) ([***code***](./middle/combination_sum.py))<br>
 43.字符串相乘([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
