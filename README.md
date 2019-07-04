@@ -45,6 +45,7 @@ leetcode刷题笔记  （Python3）
 25.k个一组翻转链表([reverse-nodes-in-k-group](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/))  ([***code***](./middle/reverse_nodes_in_k_group.py))<br>
 31.下一个排列([next-permutation](https://leetcode-cn.com/problems/next-permutation/))  ([***code***](./middle/next_permutation.py))<br>
 33.搜索旋转排列数组([search-in-rotated-sorted-array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/))  ([***code***](./2018tencent50/middle/search_in_rotated_sorted_array.py))<br>
+34.在排序数组中查找元素的第一个和最后一个位置([find-first-and-last-position-of-element-in-sorted-array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/))  ([***code***](./middle/find-first-and-last-position-of-element-in-sorted-array.py))<br>
 39.组合总和([combination-sum](https://leetcode-cn.com/problems/combination-sum/)) ([***code***](./middle/combination_sum.py))<br>
 43.字符串相乘([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
 54.螺旋矩阵([spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/))    ([***code***](./2018tencent50/middle/spiral_matrix.py))<br>
@@ -82,6 +83,7 @@ leetcode刷题笔记  （Python3）
 209.长度最小的子数组([minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/))    ([***code***](./middle/minimum_size_subarray_sum.py))<br>
 210.课程表 II([course-schedule-ii](https://leetcode-cn.com/problems/course-schedule-ii/))    ([***code***](./middle/course_schedule_ii.py))<br>
 215.数组中的第K个最大元素([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
+221.最大正方形([maximal-square](https://leetcode-cn.com/problems/maximal-square/))    ([***code***](./middle/maximal_square.py))<br>
 229.求众数 II([majority-element-ii](https://leetcode-cn.com/problems/majority-element-ii/))    ([***code***](./middle/majority_element_ii.py))<br>
 230.二叉搜索树中第K小的元素([kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/))   ([***code***](./2018tencent50/middle/kth_smallest_element_in_a_bst.py))<br>
 236.二叉搜索树的最近公共祖先([lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))   ([***code***](./2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py))<br>
@@ -90,6 +92,7 @@ leetcode刷题笔记  （Python3）
 260.只出现一次的数字 III([single-number-iii](https://leetcode-cn.com/problems/single-number-iii/))   ([***code***](./middle/single_number_iii.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
+300.最长上升子序列([longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/))   ([***code***](./middle/longest_increasing_subsequence.py))<br>
 306.累加数([additive-number](https://leetcode-cn.com/problems/additive-number/))   ([***code***](./middle/additive_number.py))<br>
 319.灯泡开关([bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/))   ([***code***](./middle/bulb_switcher.py))<br>
 322.零钱兑换([coin-change](https://leetcode-cn.com/problems/coin-change/))   ([***code***](./middle/coin_change.py))<br>
@@ -111,6 +114,7 @@ leetcode刷题笔记  （Python3）
 523.连续的子数组和([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
 547.朋友圈([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
+560.和为K的子数组([subarray-sum-equals-k/](https://leetcode-cn.com/problems/subarray-sum-equals-k/))   ([***code***](./middle/subarray_sum_equals_k.py))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
 647.回文子串([palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/))   ([***code***](./middle/palindromic_substrings.py))<br>
