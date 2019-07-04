@@ -77,6 +77,7 @@ leetcode刷题笔记  （Python3）
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 144.二叉树的前序遍历([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
+146.LRU缓存机制([lru-cache](https://leetcode-cn.com/problems/lru-cache/))   ([***code***](./middle/lru_cache.py))<br>
 148.排序链表([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
 160.相交链表([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
 165.比较版本号([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
