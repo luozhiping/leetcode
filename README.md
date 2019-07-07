@@ -48,6 +48,8 @@ leetcode刷题笔记  （Python3）
 34.在排序数组中查找元素的第一个和最后一个位置([find-first-and-last-position-of-element-in-sorted-array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/))  ([***code***](./middle/find-first-and-last-position-of-element-in-sorted-array.py))<br>
 39.组合总和([combination-sum](https://leetcode-cn.com/problems/combination-sum/)) ([***code***](./middle/combination_sum.py))<br>
 43.字符串相乘([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
+48.旋转图像([rotate-image](https://leetcode-cn.com/problems/rotate-image/)) ([***code***](./middle/rotate_image.py))<br>
+49.字母异位词分组([group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)) ([***code***](./middle/group_anagrams.py))<br>
 54.螺旋矩阵([spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/))    ([***code***](./2018tencent50/middle/spiral_matrix.py))<br>
 56.合并区间([merge-intervals](https://leetcode-cn.com/problems/merge-intervals/))    ([***code***](./middle/merge_intervals.py))<br>
 57.插入区间([spiral-matrix-ii](https://leetcode-cn.com/problems/insert-interval/))    ([***code***](./middle/insert_interval.py))<br>
@@ -105,6 +107,7 @@ leetcode刷题笔记  （Python3）
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 338.比特位计数([counting-bits](https://leetcode-cn.com/problems/counting-bits/))   ([***code***](./middle/counting_bits.py))<br>
 395.至少有K个重复字符的最长子串([longest-substring-with-at-least-k-repeating-characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/))   ([***code***](./middle/longest_substring_with_at_least_k_repeating_characters.py))<br>
+406.根据身高重建队列([queue-reconstruction-by-height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/))   ([***code***](./middle/queue_reconstruction_by_height.py))<br>
 424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
 436.寻找右区间([find-right-interval](https://leetcode-cn.com/problems/find-right-interval/))   ([***code***](./middle/find_right_interval.py))<br>
 442.数组中重复的数据([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
