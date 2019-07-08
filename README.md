@@ -57,6 +57,7 @@ leetcode刷题笔记  （Python3）
 59.螺旋矩阵II([spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/))    ([***code***](./2018tencent50/middle/spiral_matrix_ii.py))<br>
 61.旋转链表([rotate-list](https://leetcode-cn.com/problems/rotate-list/))([***code***](./2018tencent50/middle/rotate_list.py))<br>
 62.不同路径([unique-paths](https://leetcode-cn.com/problems/unique-paths/))  ([***code***](./2018tencent50/middle/unique_paths.py))<br>
+64.最小路径和([minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/))  ([***code***](./middle/minimum_path_sum.py))<br>
 73.矩阵置零([set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/))  ([***code***](./middle/set_matrix_zeroes.py))<br>
 74.搜索二维矩阵([search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/))  ([***code***](./middle/search_a_2d_matrix.py))<br>
 75.颜色分类([sort-colors](https://leetcode-cn.com/problems/sort-colors/))  ([***code***](./middle/sort_colors.py))<br>
@@ -85,6 +86,7 @@ leetcode刷题笔记  （Python3）
 160.相交链表([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
 165.比较版本号([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
 179.最大数([largest-number](https://leetcode-cn.com/problems/largest-number/)) ([***code***](./middle/largest_number.py))<br>
+200.岛屿数量([number-of-islands](https://leetcode-cn.com/problems/number-of-islands/)) ([***code***](./middle/number_of_islands.py))<br>
 207.课程表([course-schedule](https://leetcode-cn.com/problems/course-schedule/)) ([***code***](./middle/course_schedule.py))<br>
 209.长度最小的子数组([minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/))    ([***code***](./middle/minimum_size_subarray_sum.py))<br>
 210.课程表 II([course-schedule-ii](https://leetcode-cn.com/problems/course-schedule-ii/))    ([***code***](./middle/course_schedule_ii.py))<br>
