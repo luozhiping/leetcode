@@ -51,6 +51,7 @@ leetcode刷题笔记  （Python3）
 48.旋转图像([rotate-image](https://leetcode-cn.com/problems/rotate-image/)) ([***code***](./middle/rotate_image.py))<br>
 49.字母异位词分组([group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)) ([***code***](./middle/group_anagrams.py))<br>
 54.螺旋矩阵([spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/))    ([***code***](./2018tencent50/middle/spiral_matrix.py))<br>
+55.跳跃游戏([jump-game](https://leetcode-cn.com/problems/jump-game/))    ([***code***](./2018tencent50/middle/jump_game.py))<br>
 56.合并区间([merge-intervals](https://leetcode-cn.com/problems/merge-intervals/))    ([***code***](./middle/merge_intervals.py))<br>
 57.插入区间([spiral-matrix-ii](https://leetcode-cn.com/problems/insert-interval/))    ([***code***](./middle/insert_interval.py))<br>
 59.螺旋矩阵II([spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/))    ([***code***](./2018tencent50/middle/spiral_matrix_ii.py))<br>
@@ -84,6 +85,7 @@ leetcode刷题笔记  （Python3）
 160.相交链表([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
 165.比较版本号([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
 179.最大数([largest-number](https://leetcode-cn.com/problems/largest-number/)) ([***code***](./middle/largest_number.py))<br>
+207.课程表([course-schedule](https://leetcode-cn.com/problems/course-schedule/)) ([***code***](./middle/course_schedule.py))<br>
 209.长度最小的子数组([minimum-size-subarray-sum](https://leetcode-cn.com/problems/minimum-size-subarray-sum/))    ([***code***](./middle/minimum_size_subarray_sum.py))<br>
 210.课程表 II([course-schedule-ii](https://leetcode-cn.com/problems/course-schedule-ii/))    ([***code***](./middle/course_schedule_ii.py))<br>
 215.数组中的第K个最大元素([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
@@ -106,6 +108,7 @@ leetcode刷题笔记  （Python3）
 365.水壶问题([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 338.比特位计数([counting-bits](https://leetcode-cn.com/problems/counting-bits/))   ([***code***](./middle/counting_bits.py))<br>
+394.字符串解码([decode-string](https://leetcode-cn.com/problems/decode-string/))   ([***code***](./middle/decode_string.py))<br>
 395.至少有K个重复字符的最长子串([longest-substring-with-at-least-k-repeating-characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/))   ([***code***](./middle/longest_substring_with_at_least_k_repeating_characters.py))<br>
 406.根据身高重建队列([queue-reconstruction-by-height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/))   ([***code***](./middle/queue_reconstruction_by_height.py))<br>
 424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
