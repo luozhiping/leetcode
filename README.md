@@ -79,11 +79,13 @@ leetcode刷题笔记  （Python3）
 106.从中序与后序遍历序列构造二叉树([construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_inorder_and_postorder_traversal.py))<br>
 114.二叉树展开为链表([flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/))  ([***code***](./middle/flatten_binary_tree_to_linked_list.py))<br>
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
+130.被围绕的区域([surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions/))  ([***code***](./middle/surrounded_regions.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 144.二叉树的前序遍历([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
 146.LRU缓存机制([lru-cache](https://leetcode-cn.com/problems/lru-cache/))   ([***code***](./middle/lru_cache.py))<br>
 148.排序链表([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
 160.相交链表([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
+162.寻找峰值([find-peak-element](https://leetcode-cn.com/problems/find-peak-element/)) ([***code***](./2018tencent50/middle/find_peak_element.py))<br>
 165.比较版本号([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
 179.最大数([largest-number](https://leetcode-cn.com/problems/largest-number/)) ([***code***](./middle/largest_number.py))<br>
 200.岛屿数量([number-of-islands](https://leetcode-cn.com/problems/number-of-islands/)) ([***code***](./middle/number_of_islands.py))<br>
