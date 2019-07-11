@@ -96,6 +96,7 @@ leetcode刷题笔记  （Python3）
 210.课程表 II([course-schedule-ii](https://leetcode-cn.com/problems/course-schedule-ii/))    ([***code***](./middle/course_schedule_ii.py))<br>
 215.数组中的第K个最大元素([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
 221.最大正方形([maximal-square](https://leetcode-cn.com/problems/maximal-square/))    ([***code***](./middle/maximal_square.py))<br>
+227.基本计算器 II([basic-calculator-ii](https://leetcode-cn.com/problems/basic-calculator-ii/))    ([***code***](./middle/basic_calculator_ii.py))<br>
 229.求众数 II([majority-element-ii](https://leetcode-cn.com/problems/majority-element-ii/))    ([***code***](./middle/majority_element_ii.py))<br>
 230.二叉搜索树中第K小的元素([kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/))   ([***code***](./2018tencent50/middle/kth_smallest_element_in_a_bst.py))<br>
 236.二叉搜索树的最近公共祖先([lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))   ([***code***](./2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py))<br>
