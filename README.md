@@ -3,6 +3,7 @@ leetcode刷题笔记  （Python3）
 
 ## Easy
 
+1.两数之和([two-sum](https://leetcode-cn.com/problems/two-sum/)) ([***code***](./easy/two_sum.py))<br>
 7.反转整数([reverse-integer](https://leetcode-cn.com/problems/reverse-integer/)) ([***code***](./2018tencent50/easy/reverse_integer.py))<br>
 9.回文数([palindrome-number](https://leetcode-cn.com/problems/palindrome-number))   ([***code***](./2018tencent50/easy/palindrome_number.py))<br>
 14.最长公共前缀([longest-common-prefix](https://leetcode-cn.com/problems/longest-common-prefix))   ([***code***](./2018tencent50/easy/longest_common_prefix.py))<br>
@@ -12,6 +13,7 @@ leetcode刷题笔记  （Python3）
 70.爬楼梯([climbing-stairs](https://leetcode-cn.com/problems/climbing-stairs/)) ([***code***](./2018tencent50/easy/climbing_stairs.py))<br>
 88.合并两个有序数组([merge-sorted-array](https://leetcode-cn.com/problems/merge-sorted-array/))  ([***code***](./2018tencent50/easy/merge_sorted_array.py))<br>
 104.二叉树的最大深度([maximum-depth-of-binary-tree](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree/)) ([***code***](./2018tencent50/easy/maximum_depth_of_binary_tree.py))<br>
+118.杨辉三角([pascals-triangle](https://leetcode-cn.com/problems/pascals-triangle/)) ([***code***](./easy/pascals_triangle.py))<br>
 121.买卖股票的最佳时机([best-time-to-buy-and-sell-stock](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock/))  ([***code***](./2018tencent50/easy/best_time_to_buy_and_sell_stock.py))<br>
 136.只出现一次的数字([single-number](https://leetcode-cn.com/problems/single-number/))   ([***code***](./2018tencent50/easy/single_number.py))<br>
 141.环形链表([linked-list-cycle](https://leetcode-cn.com/problems/linked-list-cycle/))   ([***code***](./2018tencent50/easy/linked_list_cycle.py))<br>
@@ -72,6 +74,7 @@ leetcode刷题笔记  （Python3）
 89.格雷编码([gray-code](https://leetcode-cn.com/problems/gray-code/))    ([***code***](./2018tencent50/middle/gray_code.py))<br>
 90.子集 II([subsets-ii](https://leetcode-cn.com/problems/subsets-ii/))    ([***code***](./middle/subsets_ii.py))<br>
 91.解码方法([decode-ways](https://leetcode-cn.com/problems/decode-ways/))    ([***code***](./middle/decode_ways.py))<br>
+92.反转链表 II([reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/))    ([***code***](./middle/reverse_linked_list_ii.py))<br>
 94.二叉树的中序遍历([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
 98.验证二叉搜索树([validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/))  ([***code***](./middle/validate_binary_search_tree.py))<br>
@@ -137,6 +140,7 @@ leetcode刷题笔记  （Python3）
 648.单词替换([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
 659.分割数组为连续子序列([split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/))   ([***code***](./middle/split_array_into_consecutive_subsequences.py))<br>
 667.优美的排列 II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
+673.最长递增子序列的个数([number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/))   ([***code***](./middle/number_of_longest_increasing_subsequence.py))<br>
 718.最长重复子数组([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures..py))<br>
 807.保持城市天际线([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
