@@ -121,11 +121,13 @@ leetcode刷题笔记  （Python3）
 384.打乱数组([shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/))   ([***code***](./middle/shuffle_an_array.py))<br>
 394.字符串解码([decode-string](https://leetcode-cn.com/problems/decode-string/))   ([***code***](./middle/decode_string.py))<br>
 395.至少有K个重复字符的最长子串([longest-substring-with-at-least-k-repeating-characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/))   ([***code***](./middle/longest_substring_with_at_least_k_repeating_characters.py))<br>
+402.移掉K位数字([remove-k-digits](https://leetcode-cn.com/problems/remove-k-digits/))   ([***code***](./middle/remove_k_digits.py))<br>
 406.根据身高重建队列([queue-reconstruction-by-height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/))   ([***code***](./middle/queue_reconstruction_by_height.py))<br>
 419.甲板上的战舰([battleships-in-a-board](https://leetcode-cn.com/problems/battleships-in-a-board/))   ([***code***](./middle/battleships_in_a_board.py))<br>
 424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
 436.寻找右区间([find-right-interval](https://leetcode-cn.com/problems/find-right-interval/))   ([***code***](./middle/find_right_interval.py))<br>
 442.数组中重复的数据([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
+468.验证IP地址([validate-ip-address](https://leetcode-cn.com/problems/validate-ip-address/))   ([***code***](./middle/validate_ip_address.py))<br>
 491.递增子序列([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
 494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
 495.提莫攻击([teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/))   ([***code***](./middle/teemo_attacking.py))<br>
@@ -147,6 +149,7 @@ leetcode刷题笔记  （Python3）
 797.所有可能的路径([all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/))   ([***code***](./middle/all_paths_from_source_to_target.py))<br>
 807.保持城市天际线([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
 820.单词的压缩编码([short-encoding-of-words](https://leetcode-cn.com/problems/short-encoding-of-words/))   ([***code***](./middle/short_encoding_of_words.py))<br>
+833.字符串中的查找与替换([keys-and-rooms](https://leetcode-cn.com/problems/find-and-replace-in-string/))   ([***code***](./middle/find_and_replace_in_string.py))<br>
 841.钥匙和房间([keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/))   ([***code***](./middle/keys_and_rooms.py))<br>
 842.将数组拆分成斐波那契序列([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
