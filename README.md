@@ -30,6 +30,9 @@ leetcode刷题笔记  （Python3）
 557.反转字符串中的单词 III([reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/))  ([***code***](./2018tencent50/easy/reverse_words_in_a_string_iii.py))<br>
 821.字符的最短距离([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))    ([***code***](./easy/shortest_distance_to_a_character.py))<br>
 1018.可被 5 整除的二进制前缀([binary-prefix-divisible-by-5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))   ([***code***](./easy/binary_prefix_divisible_by_5.py))<br>
+1118.一月有多少天([number-of-days-in-a-month](https://leetcode-cn.com/problems/number-of-days-in-a-month/))   ([***code***](./easy/number_of_days_in_a_month.py))<br>
+1119.删去字符串中的元音([remove-vowels-from-a-string](https://leetcode-cn.com/problems/remove-vowels-from-a-string/))   ([***code***](./easy/remove_vowels_from_a_string.py))<br>
+1122.数组的相对排序([relative-sort-array](https://leetcode-cn.com/problems/relative-sort-array/))   ([***code***](./easy/relative_sort_array.py))<br>
 
 ## Middle
 
@@ -126,6 +129,7 @@ leetcode刷题笔记  （Python3）
 419.甲板上的战舰([battleships-in-a-board](https://leetcode-cn.com/problems/battleships-in-a-board/))   ([***code***](./middle/battleships_in_a_board.py))<br>
 424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
 426.将二叉搜索树转化为排序的双向链表([convert-binary-search-tree-to-sorted-doubly-linked-list](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/))   ([***code***](./middle/convert_binary_search_tree_to_sorted_doubly_linked_list.py))<br>
+423.从英文中重建数字([reconstruct-original-digits-from-english](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/))   ([***code***](./middle/reconstruct_original_digits_from_english.py))<br>
 436.寻找右区间([find-right-interval](https://leetcode-cn.com/problems/find-right-interval/))   ([***code***](./middle/find_right_interval.py))<br>
 442.数组中重复的数据([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
 468.验证IP地址([validate-ip-address](https://leetcode-cn.com/problems/validate-ip-address/))   ([***code***](./middle/validate_ip_address.py))<br>
@@ -167,7 +171,9 @@ leetcode刷题笔记  （Python3）
 994.腐烂的橘子([rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges/))   ([***code***](./middle/rotting_oranges.py))<br>
 1008.先序遍历构造二叉树([construct-binary-search-tree-from-preorder-traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/))   ([***code***](./middle/construct_binary_search_tree_from_preorder_traversal.py))<br>
 1017.负二进制转换([convert-to-base-2](https://leetcode-cn.com/problems/convert-to-base-2/))   ([***code***](./middle/convert_to_base_2.py))<br>
+1120.子树的最大平均值([maximum-average-subtree](https://leetcode-cn.com/problems/maximum-average-subtree/))   ([***code***](./middle/maximum_average_subtree.py))<br>
 
 ## Difficult
 
 440.字典序的第K小数字([k-th-smallest-in-lexicographical-order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/))  ([***code***](./difficult/k_th_smallest_in_lexicographical_order.py))<br>
+1121.将数组分成几个递增序列([divide-array-into-increasing-sequences](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences/))  ([***code***](./difficult/divide_array_into_increasing_sequences.py))<br>
