@@ -125,6 +125,7 @@ leetcode刷题笔记  （Python3）
 406.根据身高重建队列([queue-reconstruction-by-height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/))   ([***code***](./middle/queue_reconstruction_by_height.py))<br>
 419.甲板上的战舰([battleships-in-a-board](https://leetcode-cn.com/problems/battleships-in-a-board/))   ([***code***](./middle/battleships_in_a_board.py))<br>
 424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
+426.将二叉搜索树转化为排序的双向链表([convert-binary-search-tree-to-sorted-doubly-linked-list](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/))   ([***code***](./middle/convert_binary_search_tree_to_sorted_doubly_linked_list.py))<br>
 436.寻找右区间([find-right-interval](https://leetcode-cn.com/problems/find-right-interval/))   ([***code***](./middle/find_right_interval.py))<br>
 442.数组中重复的数据([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
 468.验证IP地址([validate-ip-address](https://leetcode-cn.com/problems/validate-ip-address/))   ([***code***](./middle/validate_ip_address.py))<br>
@@ -153,12 +154,14 @@ leetcode刷题笔记  （Python3）
 833.字符串中的查找与替换([keys-and-rooms](https://leetcode-cn.com/problems/find-and-replace-in-string/))   ([***code***](./middle/find_and_replace_in_string.py))<br>
 841.钥匙和房间([keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/))   ([***code***](./middle/keys_and_rooms.py))<br>
 842.将数组拆分成斐波那契序列([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
+845.数组中的最长山脉([longest-mountain-in-array](https://leetcode-cn.com/problems/longest-mountain-in-array/))   ([***code***](./middle/longest_mountain_in_array.py))<br>
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
 889.根据前序和后序遍历构造二叉树([shifting-letters](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/))   ([***code***](./middle/construct_binary_tree_from_preorder_and_postorder_traversal.py))<br>
 916.单词子集([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
 946.验证栈序列([validate-stack-sequences](https://leetcode-cn.com/problems/validate-stack-sequences/))   ([***code***](./middle/validate_stack_sequences.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
+973.最接近原点的 K 个点([k-closest-points-to-origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/))   ([***code***](./middle/k_closest_points_to_origin.py))<br>
 990.等式方程的可满足性([satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/))   ([***code***](./middle/satisfiability_of_equality_equations.py))<br>
 991.坏了的计算器([broken-calculator](https://leetcode-cn.com/problems/broken-calculator/))   ([***code***](./middle/broken_calculator.py))<br>
 994.腐烂的橘子([rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges/))   ([***code***](./middle/rotting_oranges.py))<br>
