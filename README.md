@@ -84,6 +84,7 @@ leetcode刷题笔记  （Python3）
 102.二叉树的层次遍历([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
 105.从前序与中序遍历序列构造二叉树([construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_preorder_and_inorder_traversal.py))<br>
 106.从中序与后序遍历序列构造二叉树([construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_inorder_and_postorder_traversal.py))<br>
+109.有序链表转换二叉搜索树([convert-sorted-list-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/))  ([***code***](./middle/convert_sorted_list_to_binary_search_tree.py))<br>
 114.二叉树展开为链表([flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/))  ([***code***](./middle/flatten_binary_tree_to_linked_list.py))<br>
 116.填充每个节点的下一个右侧节点指针([populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/))  ([***code***](./middle/populating_next_right_pointers_in_each_node.py))<br>
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
@@ -155,6 +156,7 @@ leetcode刷题笔记  （Python3）
 797.所有可能的路径([all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/))   ([***code***](./middle/all_paths_from_source_to_target.py))<br>
 807.保持城市天际线([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
 820.单词的压缩编码([short-encoding-of-words](https://leetcode-cn.com/problems/short-encoding-of-words/))   ([***code***](./middle/short_encoding_of_words.py))<br>
+831.隐藏个人信息([masking-personal-information](https://leetcode-cn.com/problems/masking-personal-information/))   ([***code***](./middle/masking_personal_information.py))<br>
 833.字符串中的查找与替换([keys-and-rooms](https://leetcode-cn.com/problems/find-and-replace-in-string/))   ([***code***](./middle/find_and_replace_in_string.py))<br>
 841.钥匙和房间([keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/))   ([***code***](./middle/keys_and_rooms.py))<br>
 842.将数组拆分成斐波那契序列([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
