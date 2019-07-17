@@ -53,6 +53,7 @@ leetcode刷题笔记  （Python3）
 34.在排序数组中查找元素的第一个和最后一个位置([find-first-and-last-position-of-element-in-sorted-array](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/))  ([***code***](./middle/find-first-and-last-position-of-element-in-sorted-array.py))<br>
 36.有效的数独([valid-sudoku](https://leetcode-cn.com/problems/valid-sudoku/))  ([***code***](./middle/valid_sudoku.py))<br>
 39.组合总和([combination-sum](https://leetcode-cn.com/problems/combination-sum/)) ([***code***](./middle/combination_sum.py))<br>
+40.组合总和 II([combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii/))    ([***code***](./middle/maximum_subarray.py))<br>
 43.字符串相乘([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
 48.旋转图像([rotate-image](https://leetcode-cn.com/problems/rotate-image/)) ([***code***](./middle/rotate_image.py))<br>
 49.字母异位词分组([group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)) ([***code***](./middle/group_anagrams.py))<br>
@@ -63,6 +64,7 @@ leetcode刷题笔记  （Python3）
 59.螺旋矩阵II([spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/))    ([***code***](./2018tencent50/middle/spiral_matrix_ii.py))<br>
 61.旋转链表([rotate-list](https://leetcode-cn.com/problems/rotate-list/))([***code***](./2018tencent50/middle/rotate_list.py))<br>
 62.不同路径([unique-paths](https://leetcode-cn.com/problems/unique-paths/))  ([***code***](./2018tencent50/middle/unique_paths.py))<br>
+63.不同路径 II([unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/))  ([***code***](./middle/unique_paths_ii.py))<br>
 64.最小路径和([minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/))  ([***code***](./middle/minimum_path_sum.py))<br>
 73.矩阵置零([set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/))  ([***code***](./middle/set_matrix_zeroes.py))<br>
 74.搜索二维矩阵([search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/))  ([***code***](./middle/search_a_2d_matrix.py))<br>
