@@ -57,6 +57,7 @@ leetcode刷题笔记  （Python3）
 43.字符串相乘([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
 48.旋转图像([rotate-image](https://leetcode-cn.com/problems/rotate-image/)) ([***code***](./middle/rotate_image.py))<br>
 49.字母异位词分组([group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)) ([***code***](./middle/group_anagrams.py))<br>
+50.Pow(x, n)([powx-n](https://leetcode-cn.com/problems/powx-n))    ([***code***](./middle/powx_n.py))<br>
 54.螺旋矩阵([spiral-matrix](https://leetcode-cn.com/problems/spiral-matrix/))    ([***code***](./2018tencent50/middle/spiral_matrix.py))<br>
 55.跳跃游戏([jump-game](https://leetcode-cn.com/problems/jump-game/))    ([***code***](./2018tencent50/middle/jump_game.py))<br>
 56.合并区间([merge-intervals](https://leetcode-cn.com/problems/merge-intervals/))    ([***code***](./middle/merge_intervals.py))<br>
