@@ -122,6 +122,7 @@ leetcode刷题笔记  （Python3）
 328.奇偶链表([odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/))   ([***code***](./middle/odd_even_linked_list.py))<br>
 347.前K个高频元素([top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/))   ([***code***](./middle/top_k_frequent_elements.py))<br>
 357.计算各个位数不同的数字个数([count-numbers-with-unique-digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/))   ([***code***](./middle/count_numbers_with_unique_digits.py))<br>
+361.轰炸敌人([bomb-enemy](https://leetcode-cn.com/problems/bomb-enemy/))   ([***code***](./middle/bomb_enemy.py))<br>
 365.水壶问题([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 338.比特位计数([counting-bits](https://leetcode-cn.com/problems/counting-bits/))   ([***code***](./middle/counting_bits.py))<br>
@@ -136,6 +137,7 @@ leetcode刷题笔记  （Python3）
 423.从英文中重建数字([reconstruct-original-digits-from-english](https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/))   ([***code***](./middle/reconstruct_original_digits_from_english.py))<br>
 436.寻找右区间([find-right-interval](https://leetcode-cn.com/problems/find-right-interval/))   ([***code***](./middle/find_right_interval.py))<br>
 442.数组中重复的数据([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
+445.两数相加 II([add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/))   ([***code***](./middle/add_two_numbers_ii.py))<br>
 468.验证IP地址([validate-ip-address](https://leetcode-cn.com/problems/validate-ip-address/))   ([***code***](./middle/validate_ip_address.py))<br>
 491.递增子序列([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
 494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
@@ -155,6 +157,7 @@ leetcode刷题笔记  （Python3）
 673.最长递增子序列的个数([number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/))   ([***code***](./middle/number_of_longest_increasing_subsequence.py))<br>
 713.乘积小于K的子数组([subarray-product-less-than-k](https://leetcode-cn.com/problems/subarray-product-less-than-k/))   ([***code***](./middle/subarray_product_less_than_k.py))<br>
 718.最长重复子数组([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
+738.单调递增的数字([monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits/))   ([***code***](./middle/monotone_increasing_digits.py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures.py))<br>
 797.所有可能的路径([all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/))   ([***code***](./middle/all_paths_from_source_to_target.py))<br>
 807.保持城市天际线([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
