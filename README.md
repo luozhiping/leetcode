@@ -96,6 +96,7 @@ leetcode刷题笔记  （Python3）
 144.二叉树的前序遍历([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
 146.LRU缓存机制([lru-cache](https://leetcode-cn.com/problems/lru-cache/))   ([***code***](./middle/lru_cache.py))<br>
 148.排序链表([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
+153.寻找旋转排序数组中的最小值([find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/))   ([***code***](./middle/find_minimum_in_rotated_sorted_array.py))<br>
 160.相交链表([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
 162.寻找峰值([find-peak-element](https://leetcode-cn.com/problems/find-peak-element/)) ([***code***](./2018tencent50/middle/find_peak_element.py))<br>
 165.比较版本号([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
@@ -163,6 +164,7 @@ leetcode刷题笔记  （Python3）
 738.单调递增的数字([monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits/))   ([***code***](./middle/monotone_increasing_digits.py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures.py))<br>
 722.删除注释([remove-comments](https://leetcode-cn.com/problems/remove-comments/))   ([***code***](./middle/remove_comments.py))<br>
+787.K 站中转内最便宜的航班([cheapest-flights-within-k-stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/))   ([***code***](./middle/cheapest_flights_within_k_stops.py))<br>
 797.所有可能的路径([all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/))   ([***code***](./middle/all_paths_from_source_to_target.py))<br>
 807.保持城市天际线([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
 820.单词的压缩编码([short-encoding-of-words](https://leetcode-cn.com/problems/short-encoding-of-words/))   ([***code***](./middle/short_encoding_of_words.py))<br>
