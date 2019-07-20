@@ -28,6 +28,7 @@ leetcode刷题笔记  （Python3）
 344.反转字符串([reverse-string](https://leetcode-cn.com/problems/reverse-string/))    ([***code***](./2018tencent50/easy/reverse_string.py))<br>
 387.字符串中的第一个唯一字符([first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/))    ([***code***](./easy/first_unique_character_in_a_string.py))<br>
 557.反转字符串中的单词 III([reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/))  ([***code***](./2018tencent50/easy/reverse_words_in_a_string_iii.py))<br>
+704.二分查找([binary-search](https://leetcode-cn.com/problems/binary-search/))    ([***code***](./easy/binary_search.py))<br>
 821.字符的最短距离([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))    ([***code***](./easy/shortest_distance_to_a_character.py))<br>
 1018.可被 5 整除的二进制前缀([binary-prefix-divisible-by-5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))   ([***code***](./easy/binary_prefix_divisible_by_5.py))<br>
 1118.一月有多少天([number-of-days-in-a-month](https://leetcode-cn.com/problems/number-of-days-in-a-month/))   ([***code***](./easy/number_of_days_in_a_month.py))<br>
@@ -146,6 +147,7 @@ leetcode刷题笔记  （Python3）
 442.数组中重复的数据([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
 445.两数相加 II([add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/))   ([***code***](./middle/add_two_numbers_ii.py))<br>
 451.根据字符出现频率排序([sort-characters-by-frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/))   ([***code***](./middle/sort_characters_by_frequency.py))<br>
+462.最少移动次数使数组元素相等 II([minimum-moves-to-equal-array-elements-ii](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/))   ([***code***](./middle/minimum_moves_to_equal_array_elements_ii.py))<br>
 468.验证IP地址([validate-ip-address](https://leetcode-cn.com/problems/validate-ip-address/))   ([***code***](./middle/validate_ip_address.py))<br>
 491.递增子序列([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
 494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
@@ -178,6 +180,7 @@ leetcode刷题笔记  （Python3）
 842.将数组拆分成斐波那契序列([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
 845.数组中的最长山脉([longest-mountain-in-array](https://leetcode-cn.com/problems/longest-mountain-in-array/))   ([***code***](./middle/longest_mountain_in_array.py))<br>
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
+881.救生艇([boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/))   ([***code***](./middle/boats_to_save_people.py))<br>
 889.根据前序和后序遍历构造二叉树([shifting-letters](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/))   ([***code***](./middle/construct_binary_tree_from_preorder_and_postorder_traversal.py))<br>
 916.单词子集([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
