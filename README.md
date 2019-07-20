@@ -55,6 +55,8 @@ leetcode刷题笔记  （Python3）
 39.组合总和([combination-sum](https://leetcode-cn.com/problems/combination-sum/)) ([***code***](./middle/combination_sum.py))<br>
 40.组合总和 II([combination-sum-ii](https://leetcode-cn.com/problems/combination-sum-ii/))    ([***code***](./middle/maximum_subarray.py))<br>
 43.字符串相乘([multiply-strings](https://leetcode-cn.com/problems/multiply-strings/)) ([***code***](./2018tencent50/middle/multiply_strings.py))<br>
+46.全排列([permutations](https://leetcode-cn.com/problems/permutations/)) ([***code***](./middle/permutations.py))<br>
+47.全排列II([permutations-ii](https://leetcode-cn.com/problems/permutations-ii/)) ([***code***](./middle/permutations_ii.py))<br>
 48.旋转图像([rotate-image](https://leetcode-cn.com/problems/rotate-image/)) ([***code***](./middle/rotate_image.py))<br>
 49.字母异位词分组([group-anagrams](https://leetcode-cn.com/problems/group-anagrams/)) ([***code***](./middle/group_anagrams.py))<br>
 50.Pow(x, n)([powx-n](https://leetcode-cn.com/problems/powx-n))    ([***code***](./middle/powx_n.py))<br>
@@ -63,6 +65,7 @@ leetcode刷题笔记  （Python3）
 56.合并区间([merge-intervals](https://leetcode-cn.com/problems/merge-intervals/))    ([***code***](./middle/merge_intervals.py))<br>
 57.插入区间([spiral-matrix-ii](https://leetcode-cn.com/problems/insert-interval/))    ([***code***](./middle/insert_interval.py))<br>
 59.螺旋矩阵II([spiral-matrix-ii](https://leetcode-cn.com/problems/spiral-matrix-ii/))    ([***code***](./2018tencent50/middle/spiral_matrix_ii.py))<br>
+60.第k个排列([permutation-sequence](https://leetcode-cn.com/problems/permutation-sequence/))([***code***](./middle/permutation_sequence.py))<br>
 61.旋转链表([rotate-list](https://leetcode-cn.com/problems/rotate-list/))([***code***](./2018tencent50/middle/rotate_list.py))<br>
 62.不同路径([unique-paths](https://leetcode-cn.com/problems/unique-paths/))  ([***code***](./2018tencent50/middle/unique_paths.py))<br>
 63.不同路径 II([unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/))  ([***code***](./middle/unique_paths_ii.py))<br>
