@@ -71,6 +71,7 @@ leetcode刷题笔记  （Python3）
 62.不同路径([unique-paths](https://leetcode-cn.com/problems/unique-paths/))  ([***code***](./2018tencent50/middle/unique_paths.py))<br>
 63.不同路径 II([unique-paths-ii](https://leetcode-cn.com/problems/unique-paths-ii/))  ([***code***](./middle/unique_paths_ii.py))<br>
 64.最小路径和([minimum-path-sum](https://leetcode-cn.com/problems/minimum-path-sum/))  ([***code***](./middle/minimum_path_sum.py))<br>
+71.简化路径([simplify-path](https://leetcode-cn.com/problems/simplify-path/))  ([***code***](./middle/simplify_path.py))<br>
 73.矩阵置零([set-matrix-zeroes](https://leetcode-cn.com/problems/set-matrix-zeroes/))  ([***code***](./middle/set_matrix_zeroes.py))<br>
 74.搜索二维矩阵([search-a-2d-matrix](https://leetcode-cn.com/problems/search-a-2d-matrix/))  ([***code***](./middle/search_a_2d_matrix.py))<br>
 75.颜色分类([sort-colors](https://leetcode-cn.com/problems/sort-colors/))  ([***code***](./middle/sort_colors.py))<br>
