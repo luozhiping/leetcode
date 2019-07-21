@@ -96,6 +96,7 @@ leetcode刷题笔记  （Python3）
 114.二叉树展开为链表([flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/))  ([***code***](./middle/flatten_binary_tree_to_linked_list.py))<br>
 116.填充每个节点的下一个右侧节点指针([populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/))  ([***code***](./middle/populating_next_right_pointers_in_each_node.py))<br>
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
+129.求根到叶子节点数字之和([sum-root-to-leaf-numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/))  ([***code***](./middle/sum_root_to_leaf_numbers.py))<br>
 130.被围绕的区域([surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions/))  ([***code***](./middle/surrounded_regions.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 144.二叉树的前序遍历([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
