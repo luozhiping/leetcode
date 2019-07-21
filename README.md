@@ -102,6 +102,7 @@ leetcode刷题笔记  （Python3）
 146.LRU缓存机制([lru-cache](https://leetcode-cn.com/problems/lru-cache/))   ([***code***](./middle/lru_cache.py))<br>
 147.对链表进行插入排序([insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list/))   ([***code***](./middle/insertion_sort_list.py))<br>
 148.排序链表([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
+151.翻转字符串里的单词([reverse-words-in-a-string](https://leetcode-cn.com/problems/reverse-words-in-a-string/))   ([***code***](./middle/reverse_words_in_a_string.py))<br>
 153.寻找旋转排序数组中的最小值([find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/))   ([***code***](./middle/find_minimum_in_rotated_sorted_array.py))<br>
 160.相交链表([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
 162.寻找峰值([find-peak-element](https://leetcode-cn.com/problems/find-peak-element/)) ([***code***](./2018tencent50/middle/find_peak_element.py))<br>
@@ -131,6 +132,7 @@ leetcode刷题笔记  （Python3）
 328.奇偶链表([odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/))   ([***code***](./middle/odd_even_linked_list.py))<br>
 347.前K个高频元素([top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/))   ([***code***](./middle/top_k_frequent_elements.py))<br>
 357.计算各个位数不同的数字个数([count-numbers-with-unique-digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/))   ([***code***](./middle/count_numbers_with_unique_digits.py))<br>
+360.有序转化数组([sort-transformed-array](https://leetcode-cn.com/problems/sort-transformed-array/))   ([***code***](./middle/sort_transformed_array.py))<br>
 361.轰炸敌人([bomb-enemy](https://leetcode-cn.com/problems/bomb-enemy/))   ([***code***](./middle/bomb_enemy.py))<br>
 365.水壶问题([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
