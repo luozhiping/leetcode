@@ -186,7 +186,9 @@ leetcode刷题笔记  （Python3）
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
 881.救生艇([boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/))   ([***code***](./middle/boats_to_save_people.py))<br>
 889.根据前序和后序遍历构造二叉树([shifting-letters](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/))   ([***code***](./middle/construct_binary_tree_from_preorder_and_postorder_traversal.py))<br>
+912.排序数组([sort-an-array](https://leetcode-cn.com/problems/sort-an-array/))   ([***code***](./middle/sort_an_array.py))<br>
 916.单词子集([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
+921.使括号有效的最少添加([minimum-add-to-make-parentheses-valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/))   ([***code***](./middle/minimum_add_to_make_parentheses_valid.py))<br>
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
 946.验证栈序列([validate-stack-sequences](https://leetcode-cn.com/problems/validate-stack-sequences/))   ([***code***](./middle/validate_stack_sequences.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
