@@ -166,6 +166,7 @@ leetcode刷题笔记  （Python3）
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
 647.回文子串([palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/))   ([***code***](./middle/palindromic_substrings.py))<br>
 648.单词替换([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
+650.只有两个键的键盘([2-keys-keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/))   ([***code***](./middle/2_keys_keyboard.py))<br>
 659.分割数组为连续子序列([split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/))   ([***code***](./middle/split_array_into_consecutive_subsequences.py))<br>
 667.优美的排列 II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
 673.最长递增子序列的个数([number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/))   ([***code***](./middle/number_of_longest_increasing_subsequence.py))<br>
