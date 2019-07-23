@@ -88,6 +88,7 @@ leetcode刷题笔记  （Python3）
 92.反转链表 II([reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/))    ([***code***](./middle/reverse_linked_list_ii.py))<br>
 93.复原IP地址([restore-ip-addresses](https://leetcode-cn.com/problems/restore-ip-addresses/))    ([***code***](./middle/restore_ip_addresses.py))<br>
 94.二叉树的中序遍历([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
+95.不同的二叉搜索树 II([unique-binary-search-trees-ii](https://leetcode-cn.com/problems/unique-binary-search-trees-ii/))    ([***code***](./middle/unique_binary_search_trees_ii.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
 98.验证二叉搜索树([validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/))  ([***code***](./middle/validate_binary_search_tree.py))<br>
 102.二叉树的层次遍历([binary-tree-level-order-traversal](https://leetcode-cn.com/problems/binary-tree-level-order-traversal/))  ([***code***](./middle/binary_tree_level_order_traversal.py))<br>
@@ -172,6 +173,7 @@ leetcode刷题笔记  （Python3）
 659.分割数组为连续子序列([split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/))   ([***code***](./middle/split_array_into_consecutive_subsequences.py))<br>
 667.优美的排列 II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
 673.最长递增子序列的个数([number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/))   ([***code***](./middle/number_of_longest_increasing_subsequence.py))<br>
+694.不同岛屿的数量([number-of-distinct-islands](https://leetcode-cn.com/problems/number-of-distinct-islands/))   ([***code***](./middle/number_of_distinct_islands.py))<br>
 713.乘积小于K的子数组([subarray-product-less-than-k](https://leetcode-cn.com/problems/subarray-product-less-than-k/))   ([***code***](./middle/subarray_product_less_than_k.py))<br>
 718.最长重复子数组([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
 738.单调递增的数字([monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits/))   ([***code***](./middle/monotone_increasing_digits.py))<br>
