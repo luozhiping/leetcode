@@ -95,6 +95,7 @@ leetcode刷题笔记  （Python3）
 105.从前序与中序遍历序列构造二叉树([construct-binary-tree-from-preorder-and-inorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_preorder_and_inorder_traversal.py))<br>
 106.从中序与后序遍历序列构造二叉树([construct-binary-tree-from-inorder-and-postorder-traversal](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/))  ([***code***](./middle/construct_binary_tree_from_inorder_and_postorder_traversal.py))<br>
 109.有序链表转换二叉搜索树([convert-sorted-list-to-binary-search-tree](https://leetcode-cn.com/problems/convert-sorted-list-to-binary-search-tree/))  ([***code***](./middle/convert_sorted_list_to_binary_search_tree.py))<br>
+113.路径总和 II([path-sum-ii](https://leetcode-cn.com/problems/path-sum-ii/))  ([***code***](./middle/path_sum_ii.py))<br>
 114.二叉树展开为链表([flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/))  ([***code***](./middle/flatten_binary_tree_to_linked_list.py))<br>
 116.填充每个节点的下一个右侧节点指针([populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/))  ([***code***](./middle/populating_next_right_pointers_in_each_node.py))<br>
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
