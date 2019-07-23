@@ -86,6 +86,7 @@ leetcode刷题笔记  （Python3）
 90.子集 II([subsets-ii](https://leetcode-cn.com/problems/subsets-ii/))    ([***code***](./middle/subsets_ii.py))<br>
 91.解码方法([decode-ways](https://leetcode-cn.com/problems/decode-ways/))    ([***code***](./middle/decode_ways.py))<br>
 92.反转链表 II([reverse-linked-list-ii](https://leetcode-cn.com/problems/reverse-linked-list-ii/))    ([***code***](./middle/reverse_linked_list_ii.py))<br>
+93.复原IP地址([restore-ip-addresses](https://leetcode-cn.com/problems/restore-ip-addresses/))    ([***code***](./middle/restore_ip_addresses.py))<br>
 94.二叉树的中序遍历([binary-tree-inorder-traversal](https://leetcode-cn.com/problems/binary-tree-inorder-traversal/))    ([***code***](./middle/binary_tree_inorder_traversal.py))<br>
 96.不同的二叉搜索树([unique-binary-search-trees](https://leetcode-cn.com/problems/unique-binary-search-trees/))  ([***code***](./middle/unique_binary_search_trees.py))<br>
 98.验证二叉搜索树([validate-binary-search-tree](https://leetcode-cn.com/problems/validate-binary-search-tree/))  ([***code***](./middle/validate_binary_search_tree.py))<br>
@@ -98,6 +99,7 @@ leetcode刷题笔记  （Python3）
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
 129.求根到叶子节点数字之和([sum-root-to-leaf-numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/))  ([***code***](./middle/sum_root_to_leaf_numbers.py))<br>
 130.被围绕的区域([surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions/))  ([***code***](./middle/surrounded_regions.py))<br>
+139.单词拆分([word-break](https://leetcode-cn.com/problems/word-break/))  ([***code***](./middle/word_break.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 144.二叉树的前序遍历([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
 146.LRU缓存机制([lru-cache](https://leetcode-cn.com/problems/lru-cache/))   ([***code***](./middle/lru_cache.py))<br>
