@@ -103,6 +103,7 @@ leetcode刷题笔记  （Python3）
 130.被围绕的区域([surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions/))  ([***code***](./middle/surrounded_regions.py))<br>
 139.单词拆分([word-break](https://leetcode-cn.com/problems/word-break/))  ([***code***](./middle/word_break.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
+143.重排链表([reorder-list](https://leetcode-cn.com/problems/reorder-list/))  ([***code***](./middle/reorder_list.py.py))<br>
 144.二叉树的前序遍历([binary-tree-preorder-traversal](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/))   ([***code***](./middle/binary_tree_preorder_traversal.py))<br>
 146.LRU缓存机制([lru-cache](https://leetcode-cn.com/problems/lru-cache/))   ([***code***](./middle/lru_cache.py))<br>
 147.对链表进行插入排序([insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list/))   ([***code***](./middle/insertion_sort_list.py))<br>
@@ -163,6 +164,7 @@ leetcode刷题笔记  （Python3）
 498.对角线遍历([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
 503.下一个更大元素 II([next-greater-element-ii](https://leetcode-cn.com/problems/next-greater-element-ii/))   ([***code***](./middle/next-greater-element-ii.py))<br>
 523.连续的子数组和([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
+525.连续数组([contiguous-array](https://leetcode-cn.com/problems/contiguous-array/))   ([***code***](./middle/contiguous_array.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
 547.朋友圈([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
 560.和为K的子数组([subarray-sum-equals-k/](https://leetcode-cn.com/problems/subarray-sum-equals-k/))   ([***code***](./middle/subarray_sum_equals_k.py))<br>
