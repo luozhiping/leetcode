@@ -169,6 +169,7 @@ leetcode刷题笔记  （Python3）
 523.连续的子数组和([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
 525.连续数组([contiguous-array](https://leetcode-cn.com/problems/contiguous-array/))   ([***code***](./middle/contiguous_array.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
+540.有序数组中的单一元素([single-element-in-a-sorted-array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/))   ([***code***](./middle/single_element_in_a_sorted_array.py))<br>
 547.朋友圈([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
 560.和为K的子数组([subarray-sum-equals-k/](https://leetcode-cn.com/problems/subarray-sum-equals-k/))   ([***code***](./middle/subarray_sum_equals_k.py))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
