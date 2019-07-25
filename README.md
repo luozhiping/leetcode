@@ -99,6 +99,7 @@ leetcode刷题笔记  （Python3）
 113.路径总和 II([path-sum-ii](https://leetcode-cn.com/problems/path-sum-ii/))  ([***code***](./middle/path_sum_ii.py))<br>
 114.二叉树展开为链表([flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/))  ([***code***](./middle/flatten_binary_tree_to_linked_list.py))<br>
 116.填充每个节点的下一个右侧节点指针([populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/))  ([***code***](./middle/populating_next_right_pointers_in_each_node.py))<br>
+117.填充每个节点的下一个右侧节点指针 II([populating-next-right-pointers-in-each-node-ii](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/))  ([***code***](./middle/populating_next_right_pointers_in_each_node_ii.py))<br>
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
 129.求根到叶子节点数字之和([sum-root-to-leaf-numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/))  ([***code***](./middle/sum_root_to_leaf_numbers.py))<br>
 130.被围绕的区域([surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions/))  ([***code***](./middle/surrounded_regions.py))<br>
@@ -132,6 +133,7 @@ leetcode刷题笔记  （Python3）
 260.只出现一次的数字 III([single-number-iii](https://leetcode-cn.com/problems/single-number-iii/))   ([***code***](./middle/single_number_iii.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
+299.猜数字游戏([bulls-and-cows](https://leetcode-cn.com/problems/bulls-and-cows/))   ([***code***](./middle/bulls_and_cows.py))<br>
 300.最长上升子序列([longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/))   ([***code***](./middle/longest_increasing_subsequence.py))<br>
 306.累加数([additive-number](https://leetcode-cn.com/problems/additive-number/))   ([***code***](./middle/additive_number.py))<br>
 319.灯泡开关([bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/))   ([***code***](./middle/bulb_switcher.py))<br>
