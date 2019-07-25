@@ -196,6 +196,7 @@ leetcode刷题笔记  （Python3）
 842.将数组拆分成斐波那契序列([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
 845.数组中的最长山脉([longest-mountain-in-array](https://leetcode-cn.com/problems/longest-mountain-in-array/))   ([***code***](./middle/longest_mountain_in_array.py))<br>
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
+856.括号的分数([score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/))   ([***code***](./middle/score_of_parentheses.py))<br>
 881.救生艇([boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/))   ([***code***](./middle/boats_to_save_people.py))<br>
 889.根据前序和后序遍历构造二叉树([shifting-letters](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/))   ([***code***](./middle/construct_binary_tree_from_preorder_and_postorder_traversal.py))<br>
 912.排序数组([sort-an-array](https://leetcode-cn.com/problems/sort-an-array/))   ([***code***](./middle/sort_an_array.py))<br>
