@@ -123,6 +123,7 @@ leetcode刷题笔记  （Python3）
 210.课程表 II([course-schedule-ii](https://leetcode-cn.com/problems/course-schedule-ii/))    ([***code***](./middle/course_schedule_ii.py))<br>
 215.数组中的第K个最大元素([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
 221.最大正方形([maximal-square](https://leetcode-cn.com/problems/maximal-square/))    ([***code***](./middle/maximal_square.py))<br>
+222.完全二叉树的节点个数([count-complete-tree-nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/))    ([***code***](./middle/count_complete_tree_nodes.py))<br>
 227.基本计算器 II([basic-calculator-ii](https://leetcode-cn.com/problems/basic-calculator-ii/))    ([***code***](./middle/basic_calculator_ii.py))<br>
 229.求众数 II([majority-element-ii](https://leetcode-cn.com/problems/majority-element-ii/))    ([***code***](./middle/majority_element_ii.py))<br>
 230.二叉搜索树中第K小的元素([kth-smallest-element-in-a-bst](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/))   ([***code***](./2018tencent50/middle/kth_smallest_element_in_a_bst.py))<br>
@@ -131,6 +132,7 @@ leetcode刷题笔记  （Python3）
 240.搜索二维矩阵 II([search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/))   ([***code***](./middle/search_a_2d_matrix_ii.py))<br>
 253.会议室 II([meeting-rooms-ii](https://leetcode-cn.com/problems/meeting-rooms-ii/))   ([***code***](./middle/meeting_rooms_ii.py))<br>
 260.只出现一次的数字 III([single-number-iii](https://leetcode-cn.com/problems/single-number-iii/))   ([***code***](./middle/single_number_iii.py))<br>
+264.丑数 II([ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii/))   ([***code***](./middle/ugly_number_ii.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
 299.猜数字游戏([bulls-and-cows](https://leetcode-cn.com/problems/bulls-and-cows/))   ([***code***](./middle/bulls_and_cows.py))<br>
@@ -171,7 +173,8 @@ leetcode刷题笔记  （Python3）
 525.连续数组([contiguous-array](https://leetcode-cn.com/problems/contiguous-array/))   ([***code***](./middle/contiguous_array.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
 540.有序数组中的单一元素([single-element-in-a-sorted-array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/))   ([***code***](./middle/single_element_in_a_sorted_array.py))<br>
-547.朋友圈([friend-circles/](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
+542.01 矩阵([01-matrix](https://leetcode-cn.com/problems/01-matrix/))   ([***code***](./middle/01_matrix.py))<br>
+547.朋友圈([friend-circles](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
 560.和为K的子数组([subarray-sum-equals-k/](https://leetcode-cn.com/problems/subarray-sum-equals-k/))   ([***code***](./middle/subarray_sum_equals_k.py))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
