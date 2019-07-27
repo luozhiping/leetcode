@@ -27,6 +27,7 @@ leetcode刷题笔记  （Python3）
 292.Nim游戏([nim-game](https://leetcode-cn.com/problems/nim-game/))    ([***code***](./2018tencent50/easy/nim_game.py))<br>
 344.反转字符串([reverse-string](https://leetcode-cn.com/problems/reverse-string/))    ([***code***](./2018tencent50/easy/reverse_string.py))<br>
 387.字符串中的第一个唯一字符([first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/))    ([***code***](./easy/first_unique_character_in_a_string.py))<br>
+509.斐波那契数([fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/))  ([***code***](./easy/fibonacci_number.py))<br>
 557.反转字符串中的单词 III([reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/))  ([***code***](./2018tencent50/easy/reverse_words_in_a_string_iii.py))<br>
 704.二分查找([binary-search](https://leetcode-cn.com/problems/binary-search/))    ([***code***](./easy/binary_search.py))<br>
 821.字符的最短距离([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))    ([***code***](./easy/shortest_distance_to_a_character.py))<br>
@@ -103,6 +104,7 @@ leetcode刷题笔记  （Python3）
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
 129.求根到叶子节点数字之和([sum-root-to-leaf-numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/))  ([***code***](./middle/sum_root_to_leaf_numbers.py))<br>
 130.被围绕的区域([surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions/))  ([***code***](./middle/surrounded_regions.py))<br>
+137.只出现一次的数字 II([single-number-ii](https://leetcode-cn.com/problems/single-number-ii/))  ([***code***](./middle/single_number_ii.py))<br>
 139.单词拆分([word-break](https://leetcode-cn.com/problems/word-break/))  ([***code***](./middle/word_break.py))<br>
 142.环形列表 II([linked-list-cycle-ii](https://leetcode-cn.com/problems/linked-list-cycle-ii/))  ([***code***](./2018tencent50/middle/linked_list_cycle_ii.py))<br>
 143.重排链表([reorder-list](https://leetcode-cn.com/problems/reorder-list/))  ([***code***](./middle/reorder_list.py.py))<br>
