@@ -186,12 +186,15 @@ leetcode刷题笔记  （Python3）
 673.最长递增子序列的个数([number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/))   ([***code***](./middle/number_of_longest_increasing_subsequence.py))<br>
 694.不同岛屿的数量([number-of-distinct-islands](https://leetcode-cn.com/problems/number-of-distinct-islands/))   ([***code***](./middle/number_of_distinct_islands.py))<br>
 695.岛屿的最大面积([max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island/))   ([***code***](./middle/max_area_of_island.py))<br>
+698.划分为k个相等的子集([partition-to-k-equal-sum-subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/))   ([***code***](./middle/partition_to_k_equal_sum_subsets.py))<br>
 713.乘积小于K的子数组([subarray-product-less-than-k](https://leetcode-cn.com/problems/subarray-product-less-than-k/))   ([***code***](./middle/subarray_product_less_than_k.py))<br>
 718.最长重复子数组([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
+725.分隔链表([split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/))   ([***code***](./middle/split_linked_list_in_parts..py))<br>
 738.单调递增的数字([monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits/))   ([***code***](./middle/monotone_increasing_digits.py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures.py))<br>
 722.删除注释([remove-comments](https://leetcode-cn.com/problems/remove-comments/))   ([***code***](./middle/remove_comments.py))<br>
 787.K 站中转内最便宜的航班([cheapest-flights-within-k-stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/))   ([***code***](./middle/cheapest_flights_within_k_stops.py))<br>
+795.区间子数组个数([number-of-subarrays-with-bounded-maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/))   ([***code***](./middle/number_of_subarrays_with_bounded_maximum.py))<br>
 797.所有可能的路径([all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/))   ([***code***](./middle/all_paths_from_source_to_target.py))<br>
 799.香槟塔([champagne-tower](https://leetcode-cn.com/problems/champagne-tower/))   ([***code***](./middle/champagne_tower.py))<br>
 807.保持城市天际线([max-increase-to-keep-city-skyline](https://leetcode-cn.com/problems/max-increase-to-keep-city-skyline/))   ([***code***](./middle/max_increase_to_keep_city_skyline.py))<br>
