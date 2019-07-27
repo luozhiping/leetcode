@@ -166,6 +166,7 @@ leetcode刷题笔记  （Python3）
 495.提莫攻击([teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/))   ([***code***](./middle/teemo_attacking.py))<br>
 498.对角线遍历([diagonal-traverse](https://leetcode-cn.com/problems/diagonal-traverse/))   ([***code***](./middle/diagonal_traverse.py))<br>
 503.下一个更大元素 II([next-greater-element-ii](https://leetcode-cn.com/problems/next-greater-element-ii/))   ([***code***](./middle/next-greater-element-ii.py))<br>
+513.找树左下角的值([find-bottom-left-tree-value](https://leetcode-cn.com/problems/find-bottom-left-tree-value/))   ([***code***](./middle/find_bottom_left_tree_value.py))<br>
 523.连续的子数组和([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
 525.连续数组([contiguous-array](https://leetcode-cn.com/problems/contiguous-array/))   ([***code***](./middle/contiguous_array.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
@@ -181,6 +182,7 @@ leetcode刷题笔记  （Python3）
 667.优美的排列 II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
 673.最长递增子序列的个数([number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/))   ([***code***](./middle/number_of_longest_increasing_subsequence.py))<br>
 694.不同岛屿的数量([number-of-distinct-islands](https://leetcode-cn.com/problems/number-of-distinct-islands/))   ([***code***](./middle/number_of_distinct_islands.py))<br>
+695.岛屿的最大面积([max-area-of-island](https://leetcode-cn.com/problems/max-area-of-island/))   ([***code***](./middle/max_area_of_island.py))<br>
 713.乘积小于K的子数组([subarray-product-less-than-k](https://leetcode-cn.com/problems/subarray-product-less-than-k/))   ([***code***](./middle/subarray_product_less_than_k.py))<br>
 718.最长重复子数组([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
 738.单调递增的数字([monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits/))   ([***code***](./middle/monotone_increasing_digits.py))<br>
