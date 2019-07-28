@@ -222,6 +222,7 @@ leetcode刷题笔记  （Python3）
 1017.负二进制转换([convert-to-base-2](https://leetcode-cn.com/problems/convert-to-base-2/))   ([***code***](./middle/convert_to_base_2.py))<br>
 1120.子树的最大平均值([maximum-average-subtree](https://leetcode-cn.com/problems/maximum-average-subtree/))   ([***code***](./middle/maximum_average_subtree.py))<br>
 1130.叶值的最小代价生成树([minimum-cost-tree-from-leaf-values](https://leetcode-cn.com/problems/minimum-cost-tree-from-leaf-values/))   ([***code***](./middle/minimum_cost_tree_from_leaf_values.py))<br>
+1135.最低成本联通所有城市([connecting-cities-with-minimum-cost](https://leetcode-cn.com/problems/connecting-cities-with-minimum-cost/))   ([***code***](./middle/connecting_cities_with_minimum_cost.py))<br>
 
 ## Difficult
 
