@@ -151,6 +151,7 @@ leetcode刷题笔记  （Python3）
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 338.比特位计数([counting-bits](https://leetcode-cn.com/problems/counting-bits/))   ([***code***](./middle/counting_bits.py))<br>
 384.打乱数组([shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/))   ([***code***](./middle/shuffle_an_array.py))<br>
+386.字典序排数([lexicographical-numbers](https://leetcode-cn.com/problems/lexicographical-numbers/))   ([***code***](./middle/lexicographical_numbers.py))<br>
 394.字符串解码([decode-string](https://leetcode-cn.com/problems/decode-string/))   ([***code***](./middle/decode_string.py))<br>
 395.至少有K个重复字符的最长子串([longest-substring-with-at-least-k-repeating-characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/))   ([***code***](./middle/longest_substring_with_at_least_k_repeating_characters.py))<br>
 402.移掉K位数字([remove-k-digits](https://leetcode-cn.com/problems/remove-k-digits/))   ([***code***](./middle/remove_k_digits.py))<br>
@@ -195,6 +196,7 @@ leetcode刷题笔记  （Python3）
 738.单调递增的数字([monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits/))   ([***code***](./middle/monotone_increasing_digits.py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures.py))<br>
 722.删除注释([remove-comments](https://leetcode-cn.com/problems/remove-comments/))   ([***code***](./middle/remove_comments.py))<br>
+767.重构字符串([reorganize-string](https://leetcode-cn.com/problems/reorganize-string/))   ([***code***](./middle/reorganize_string.py))<br>
 787.K 站中转内最便宜的航班([cheapest-flights-within-k-stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/))   ([***code***](./middle/cheapest_flights_within_k_stops.py))<br>
 795.区间子数组个数([number-of-subarrays-with-bounded-maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/))   ([***code***](./middle/number_of_subarrays_with_bounded_maximum.py))<br>
 797.所有可能的路径([all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/))   ([***code***](./middle/all_paths_from_source_to_target.py))<br>
@@ -213,6 +215,7 @@ leetcode刷题笔记  （Python3）
 912.排序数组([sort-an-array](https://leetcode-cn.com/problems/sort-an-array/))   ([***code***](./middle/sort_an_array.py))<br>
 916.单词子集([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
 921.使括号有效的最少添加([minimum-add-to-make-parentheses-valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/))   ([***code***](./middle/minimum_add_to_make_parentheses_valid.py))<br>
+935.骑士拨号器([knight-dialer](https://leetcode-cn.com/problems/knight-dialer/))    ([***code***](./middle/knight_dialer.py))<br>
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
 946.验证栈序列([validate-stack-sequences](https://leetcode-cn.com/problems/validate-stack-sequences/))   ([***code***](./middle/validate_stack_sequences.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
