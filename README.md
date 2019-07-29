@@ -29,6 +29,7 @@ leetcode刷题笔记  （Python3）
 387.字符串中的第一个唯一字符([first-unique-character-in-a-string](https://leetcode-cn.com/problems/first-unique-character-in-a-string/))    ([***code***](./easy/first_unique_character_in_a_string.py))<br>
 509.斐波那契数([fibonacci-number](https://leetcode-cn.com/problems/fibonacci-number/))  ([***code***](./easy/fibonacci_number.py))<br>
 557.反转字符串中的单词 III([reverse-words-in-a-string-iii](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/))  ([***code***](./2018tencent50/easy/reverse_words_in_a_string_iii.py))<br>
+703.数据流中的第K大元素([kth-largest-element-in-a-stream](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream/))    ([***code***](./easy/kth_largest_element_in_a_stream.py))<br>
 704.二分查找([binary-search](https://leetcode-cn.com/problems/binary-search/))    ([***code***](./easy/binary_search.py))<br>
 821.字符的最短距离([shortest-distance-to-a-character](https://leetcode-cn.com/problems/shortest-distance-to-a-character/))    ([***code***](./easy/shortest_distance_to_a_character.py))<br>
 1018.可被 5 整除的二进制前缀([binary-prefix-divisible-by-5](https://leetcode-cn.com/problems/binary-prefix-divisible-by-5/))   ([***code***](./easy/binary_prefix_divisible_by_5.py))<br>
@@ -216,6 +217,7 @@ leetcode刷题笔记  （Python3）
 916.单词子集([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
 921.使括号有效的最少添加([minimum-add-to-make-parentheses-valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/))   ([***code***](./middle/minimum_add_to_make_parentheses_valid.py))<br>
 935.骑士拨号器([knight-dialer](https://leetcode-cn.com/problems/knight-dialer/))    ([***code***](./middle/knight_dialer.py))<br>
+939.最小面积矩形([minimum-area-rectangle](https://leetcode-cn.com/problems/minimum-area-rectangle/))    ([***code***](./middle/minimum_area_rectangle.py))<br>
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
 946.验证栈序列([validate-stack-sequences](https://leetcode-cn.com/problems/validate-stack-sequences/))   ([***code***](./middle/validate_stack_sequences.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
