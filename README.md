@@ -115,6 +115,7 @@ leetcode刷题笔记  （Python3）
 146.LRU缓存机制([lru-cache](https://leetcode-cn.com/problems/lru-cache/))   ([***code***](./middle/lru_cache.py))<br>
 147.对链表进行插入排序([insertion-sort-list](https://leetcode-cn.com/problems/insertion-sort-list/))   ([***code***](./middle/insertion_sort_list.py))<br>
 148.排序链表([sort-list](https://leetcode-cn.com/problems/sort-list/))   ([***code***](./2018tencent50/middle/sort_list.py))<br>
+150.逆波兰表达式求值([evaluate-reverse-polish-notation](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/))   ([***code***](./middle/evaluate_reverse_polish_notation.py))<br>
 151.翻转字符串里的单词([reverse-words-in-a-string](https://leetcode-cn.com/problems/reverse-words-in-a-string/))   ([***code***](./middle/reverse_words_in_a_string.py))<br>
 153.寻找旋转排序数组中的最小值([find-minimum-in-rotated-sorted-array](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/))   ([***code***](./middle/find_minimum_in_rotated_sorted_array.py))<br>
 160.相交链表([intersection-of-two-linked-lists](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/)) ([***code***](./2018tencent50/middle/intersection_of_two_linked_lists.py))<br>
