@@ -36,6 +36,7 @@ leetcode刷题笔记  （Python3）
 1118.一月有多少天([number-of-days-in-a-month](https://leetcode-cn.com/problems/number-of-days-in-a-month/))   ([***code***](./easy/number_of_days_in_a_month.py))<br>
 1119.删去字符串中的元音([remove-vowels-from-a-string](https://leetcode-cn.com/problems/remove-vowels-from-a-string/))   ([***code***](./easy/remove_vowels_from_a_string.py))<br>
 1122.数组的相对排序([relative-sort-array](https://leetcode-cn.com/problems/relative-sort-array/))   ([***code***](./easy/relative_sort_array.py))<br>
+1133. 最大唯一数([largest-unique-number](https://leetcode-cn.com/problems/largest-unique-number/))   ([***code***](./easy/largest_unique_number.py))<br>
 
 ## Middle
 
@@ -102,6 +103,7 @@ leetcode刷题笔记  （Python3）
 114.二叉树展开为链表([flatten-binary-tree-to-linked-list](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list/))  ([***code***](./middle/flatten_binary_tree_to_linked_list.py))<br>
 116.填充每个节点的下一个右侧节点指针([populating-next-right-pointers-in-each-node](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node/))  ([***code***](./middle/populating_next_right_pointers_in_each_node.py))<br>
 117.填充每个节点的下一个右侧节点指针 II([populating-next-right-pointers-in-each-node-ii](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii/))  ([***code***](./middle/populating_next_right_pointers_in_each_node_ii.py))<br>
+120.三角形最小路径和([triangle](https://leetcode-cn.com/problems/triangle/))  ([***code***](./middle/triangle.py))<br>
 127.单词接龙([word-ladder](https://leetcode-cn.com/problems/word-ladder/))  ([***code***](./middle/word_ladder.py))<br>
 129.求根到叶子节点数字之和([sum-root-to-leaf-numbers](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers/))  ([***code***](./middle/sum_root_to_leaf_numbers.py))<br>
 130.被围绕的区域([surrounded-regions](https://leetcode-cn.com/problems/surrounded-regions/))  ([***code***](./middle/surrounded_regions.py))<br>
@@ -185,6 +187,7 @@ leetcode刷题笔记  （Python3）
 647.回文子串([palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/))   ([***code***](./middle/palindromic_substrings.py))<br>
 648.单词替换([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
 650.只有两个键的键盘([2-keys-keyboard](https://leetcode-cn.com/problems/2-keys-keyboard/))   ([***code***](./middle/2_keys_keyboard.py))<br>
+654.最大二叉树([maximum-binary-tree](https://leetcode-cn.com/problems/maximum-binary-tree/))   ([***code***](./middle/maximum_binary_tree.py))<br>
 659.分割数组为连续子序列([split-array-into-consecutive-subsequences](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/))   ([***code***](./middle/split_array_into_consecutive_subsequences.py))<br>
 667.优美的排列 II([beautiful-arrangement-ii](https://leetcode-cn.com/problems/beautiful-arrangement-ii/))   ([***code***](./middle/beautiful_arrangement_ii.py))<br>
 673.最长递增子序列的个数([number-of-longest-increasing-subsequence](https://leetcode-cn.com/problems/number-of-longest-increasing-subsequence/))   ([***code***](./middle/number_of_longest_increasing_subsequence.py))<br>
@@ -233,5 +236,7 @@ leetcode刷题笔记  （Python3）
 
 ## Difficult
 
+123.买卖股票的最佳时机 III([best-time-to-buy-and-sell-stock-iii](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii/))  ([***code***](./difficult/best_time_to_buy_and_sell_stock_iii.py))<br>
 440.字典序的第K小数字([k-th-smallest-in-lexicographical-order](https://leetcode-cn.com/problems/k-th-smallest-in-lexicographical-order/))  ([***code***](./difficult/k_th_smallest_in_lexicographical_order.py))<br>
 1121.将数组分成几个递增序列([divide-array-into-increasing-sequences](https://leetcode-cn.com/problems/divide-array-into-increasing-sequences/))  ([***code***](./difficult/divide_array_into_increasing_sequences.py))<br>
+1136.平行课程([parallel-courses](https://leetcode-cn.com/problems/parallel-courses/))  ([***code***](./difficult/parallel_courses.py))<br>
