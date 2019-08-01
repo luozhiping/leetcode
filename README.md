@@ -221,6 +221,7 @@ leetcode刷题笔记  （Python3）
 912.排序数组([sort-an-array](https://leetcode-cn.com/problems/sort-an-array/))   ([***code***](./middle/sort_an_array.py))<br>
 916.单词子集([word-subsets](https://leetcode-cn.com/problems/word-subsets/))   ([***code***](./middle/word_subsets.py))<br>
 921.使括号有效的最少添加([minimum-add-to-make-parentheses-valid](https://leetcode-cn.com/problems/minimum-add-to-make-parentheses-valid/))   ([***code***](./middle/minimum_add_to_make_parentheses_valid.py))<br>
+930.和相同的二元子数组([binary-subarrays-with-sum](https://leetcode-cn.com/problems/binary-subarrays-with-sum/))    ([***code***](./middle/binary_subarrays_with_sum.py))<br>
 935.骑士拨号器([knight-dialer](https://leetcode-cn.com/problems/knight-dialer/))    ([***code***](./middle/knight_dialer.py))<br>
 939.最小面积矩形([minimum-area-rectangle](https://leetcode-cn.com/problems/minimum-area-rectangle/))    ([***code***](./middle/minimum_area_rectangle.py))<br>
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
