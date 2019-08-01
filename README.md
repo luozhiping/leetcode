@@ -48,6 +48,7 @@ leetcode刷题笔记  （Python3）
 15.三数之和([3sum](https://leetcode-cn.com/problems/3sum/))  ([***code***](./2018tencent50/middle/3sum.py))<br>
 16.最接近的三数之和([3sum-closest](https://leetcode-cn.com/problems/3sum-closest/))  ([***code***](./2018tencent50/middle/3sum_closest.py))<br>
 17.电话号码的字母组合([letter-combinations-of-a-phone-number](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/))  ([***code***](./middle/letter_combinations_of_a_phone_number.py))<br>
+18.四数之和([4sum](https://leetcode-cn.com/problems/4sum/))  ([***code***](./middle/4sum.py))<br>
 19.删除链表的倒数第N个节点([remove-nth-node-from-end-of-list](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/))  ([***code***](./middle/remove_nth_node_from_end_of_list.py))<br>
 22.括号生成([generate-parentheses](https://leetcode-cn.com/problems/generate-parentheses/))  ([***code***](./middle/generate_parentheses.py))<br>
 24.两两交换链表中的节点([swap-nodes-in-pairs](https://leetcode-cn.com/problems/swap-nodes-in-pairs/))  ([***code***](./middle/swap_nodes_in_pairs.py))<br>
@@ -224,6 +225,7 @@ leetcode刷题笔记  （Python3）
 939.最小面积矩形([minimum-area-rectangle](https://leetcode-cn.com/problems/minimum-area-rectangle/))    ([***code***](./middle/minimum_area_rectangle.py))<br>
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
 946.验证栈序列([validate-stack-sequences](https://leetcode-cn.com/problems/validate-stack-sequences/))   ([***code***](./middle/validate_stack_sequences.py))<br>
+967.连续差相同的数字([numbers-with-same-consecutive-differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/))   ([***code***](./middle/numbers_with_same_consecutive_differences.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
 973.最接近原点的 K 个点([k-closest-points-to-origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/))   ([***code***](./middle/k_closest_points_to_origin.py))<br>
 990.等式方程的可满足性([satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/))   ([***code***](./middle/satisfiability_of_equality_equations.py))<br>
