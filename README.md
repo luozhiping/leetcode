@@ -204,6 +204,7 @@ leetcode刷题笔记  （Python3）
 722.删除注释([remove-comments](https://leetcode-cn.com/problems/remove-comments/))   ([***code***](./middle/remove_comments.py))<br>
 767.重构字符串([reorganize-string](https://leetcode-cn.com/problems/reorganize-string/))   ([***code***](./middle/reorganize_string.py))<br>
 787.K 站中转内最便宜的航班([cheapest-flights-within-k-stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/))   ([***code***](./middle/cheapest_flights_within_k_stops.py))<br>
+792.匹配子序列的单词数([number-of-matching-subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/))   ([***code***](./middle/NumberOfMatchingSubsequences.java))<br>
 795.区间子数组个数([number-of-subarrays-with-bounded-maximum](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/))   ([***code***](./middle/number_of_subarrays_with_bounded_maximum.py))<br>
 797.所有可能的路径([all-paths-from-source-to-target](https://leetcode-cn.com/problems/all-paths-from-source-to-target/))   ([***code***](./middle/all_paths_from_source_to_target.py))<br>
 799.香槟塔([champagne-tower](https://leetcode-cn.com/problems/champagne-tower/))   ([***code***](./middle/champagne_tower.py))<br>
