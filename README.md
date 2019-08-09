@@ -184,6 +184,7 @@ leetcode刷题笔记  （Python3）
 540.有序数组中的单一元素([single-element-in-a-sorted-array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/))   ([***code***](./middle/single_element_in_a_sorted_array.py))<br>
 542.01 矩阵([01-matrix](https://leetcode-cn.com/problems/01-matrix/))   ([***code***](./middle/01_matrix.py))<br>
 547.朋友圈([friend-circles](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
+556.下一个更大元素 III([next-greater-element-iii](https://leetcode-cn.com/problems/next-greater-element-iii/))   ([***code***](./java/NextGreaterElementIII.java))<br>
 560.和为K的子数组([subarray-sum-equals-k/](https://leetcode-cn.com/problems/subarray-sum-equals-k/))   ([***code***](./middle/subarray_sum_equals_k.py))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
@@ -228,6 +229,7 @@ leetcode刷题笔记  （Python3）
 939.最小面积矩形([minimum-area-rectangle](https://leetcode-cn.com/problems/minimum-area-rectangle/))    ([***code***](./middle/minimum_area_rectangle.py))<br>
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
 946.验证栈序列([validate-stack-sequences](https://leetcode-cn.com/problems/validate-stack-sequences/))   ([***code***](./middle/validate_stack_sequences.py))<br>
+950.按递增顺序显示卡牌([reveal-cards-in-increasing-order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/))   ([***code***](./java/RevealCardsInIncreasingOrder.java))<br>
 967.连续差相同的数字([numbers-with-same-consecutive-differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/))   ([***code***](./middle/numbers_with_same_consecutive_differences.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
 973.最接近原点的 K 个点([k-closest-points-to-origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/))   ([***code***](./middle/k_closest_points_to_origin.py))<br>
