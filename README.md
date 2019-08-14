@@ -142,6 +142,7 @@ leetcode刷题笔记  （Python3）
 260.只出现一次的数字 III([single-number-iii](https://leetcode-cn.com/problems/single-number-iii/))   ([***code***](./middle/single_number_iii.py))<br>
 264.丑数 II([ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii/))   ([***code***](./middle/ugly_number_ii.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
+280.摆动排序([wiggle-sort](https://leetcode-cn.com/problems/wiggle-sort/))   ([***code***](./java/WiggleSort.java))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
 299.猜数字游戏([bulls-and-cows](https://leetcode-cn.com/problems/bulls-and-cows/))   ([***code***](./middle/bulls_and_cows.py))<br>
 300.最长上升子序列([longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/))   ([***code***](./middle/longest_increasing_subsequence.py))<br>
