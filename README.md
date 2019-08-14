@@ -1,5 +1,5 @@
 # leetcode
-leetcode刷题笔记  （Python3）
+leetcode刷题笔记  （Python3\JAVA）
 
 ## Easy
 
@@ -123,6 +123,8 @@ leetcode刷题笔记  （Python3）
 162.寻找峰值([find-peak-element](https://leetcode-cn.com/problems/find-peak-element/)) ([***code***](./2018tencent50/middle/find_peak_element.py))<br>
 165.比较版本号([compare-version-numbers](https://leetcode-cn.com/problems/compare-version-numbers/)) ([***code***](./middle/compare_version_numbers.py))<br>
 179.最大数([largest-number](https://leetcode-cn.com/problems/largest-number/)) ([***code***](./middle/largest_number.py))<br>
+186.翻转字符串里的单词 II([reverse-words-in-a-string-ii](https://leetcode-cn.com/problems/reverse-words-in-a-string-ii/)) ([***code***](./java/ReverseWordsInAStringII.java))<br>
+187.重复的DNA序列([repeated-dna-sequences](https://leetcode-cn.com/problems/repeated-dna-sequences/)) ([***code***](./java/RepeatedDnaSequences.java))<br>
 199.二叉树的右视图([binary-tree-right-side-view](https://leetcode-cn.com/problems/binary-tree-right-side-view/)) ([***code***](./middle/binary_tree_right_side_view.py))<br>
 200.岛屿数量([number-of-islands](https://leetcode-cn.com/problems/number-of-islands/)) ([***code***](./middle/number_of_islands.py))<br>
 207.课程表([course-schedule](https://leetcode-cn.com/problems/course-schedule/)) ([***code***](./middle/course_schedule.py))<br>
