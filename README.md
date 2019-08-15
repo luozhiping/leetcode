@@ -140,6 +140,8 @@ leetcode刷题笔记  （Python3\JAVA）
 236.二叉搜索树的最近公共祖先([lowest-common-ancestor-of-a-binary-tree](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/))   ([***code***](./2018tencent50/middle/lowest_common_ancestor_of_a_binary_search_tree.py))<br>
 238.除自身以外数组的乘积([product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/))   ([***code***](./2018tencent50/middle/product_of_array_except_self.py))<br>
 240.搜索二维矩阵 II([search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/))   ([***code***](./middle/search_a_2d_matrix_ii.py))<br>
+244.最短单词距离 II([shortest-word-distance-ii](https://leetcode-cn.com/problems/shortest-word-distance-ii/))   ([***code***](./java/ShortestWordDistanceII.java))<br>
+244.最短单词距离 III([shortest-word-distance-iii](https://leetcode-cn.com/problems/shortest-word-distance-iii/))   ([***code***](./java/ShortestWordDistanceIII.java))<br>
 253.会议室 II([meeting-rooms-ii](https://leetcode-cn.com/problems/meeting-rooms-ii/))   ([***code***](./middle/meeting_rooms_ii.py))<br>
 260.只出现一次的数字 III([single-number-iii](https://leetcode-cn.com/problems/single-number-iii/))   ([***code***](./middle/single_number_iii.py))<br>
 264.丑数 II([ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii/))   ([***code***](./middle/ugly_number_ii.py))<br>
