@@ -161,6 +161,7 @@ leetcode刷题笔记  （Python3\JAVA）
 365.水壶问题([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 338.比特位计数([counting-bits](https://leetcode-cn.com/problems/counting-bits/))   ([***code***](./middle/counting_bits.py))<br>
+378.有序矩阵中第K小的元素([kth-smallest-element-in-a-sorted-matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/))   ([***code***](./java/KthSmallestElementInASortedMatrix.java))<br>
 384.打乱数组([shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/))   ([***code***](./middle/shuffle_an_array.py))<br>
 386.字典序排数([lexicographical-numbers](https://leetcode-cn.com/problems/lexicographical-numbers/))   ([***code***](./middle/lexicographical_numbers.py))<br>
 394.字符串解码([decode-string](https://leetcode-cn.com/problems/decode-string/))   ([***code***](./middle/decode_string.py))<br>
@@ -192,6 +193,7 @@ leetcode刷题笔记  （Python3\JAVA）
 556.下一个更大元素 III([next-greater-element-iii](https://leetcode-cn.com/problems/next-greater-element-iii/))   ([***code***](./java/NextGreaterElementIII.java))<br>
 560.和为K的子数组([subarray-sum-equals-k/](https://leetcode-cn.com/problems/subarray-sum-equals-k/))   ([***code***](./middle/subarray_sum_equals_k.py))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
+611.有效三角形的个数([valid-triangle-number](https://leetcode-cn.com/problems/valid-triangle-number/))   ([***code***](./java/ValidTriangleNumber.java))<br>
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
 647.回文子串([palindromic-substrings](https://leetcode-cn.com/problems/palindromic-substrings/))   ([***code***](./middle/palindromic_substrings.py))<br>
 648.单词替换([replace-words](https://leetcode-cn.com/problems/replace-words/))   ([***code***](./middle/replace_words.py))<br>
