@@ -149,6 +149,7 @@ leetcode刷题笔记  （Python3\JAVA）
 264.丑数 II([ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii/))   ([***code***](./middle/ugly_number_ii.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
 280.摆动排序([wiggle-sort](https://leetcode-cn.com/problems/wiggle-sort/))   ([***code***](./java/WiggleSort.java))<br>
+285.二叉搜索树中的顺序后继([inorder-successor-in-bst](https://leetcode-cn.com/problems/inorder-successor-in-bst/))   ([***code***](./java/InorderSuccessorInBst.java))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
 299.猜数字游戏([bulls-and-cows](https://leetcode-cn.com/problems/bulls-and-cows/))   ([***code***](./middle/bulls_and_cows.py))<br>
 300.最长上升子序列([longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/))   ([***code***](./middle/longest_increasing_subsequence.py))<br>
@@ -156,6 +157,7 @@ leetcode刷题笔记  （Python3\JAVA）
 319.灯泡开关([bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/))   ([***code***](./middle/bulb_switcher.py))<br>
 322.零钱兑换([coin-change](https://leetcode-cn.com/problems/coin-change/))   ([***code***](./middle/coin_change.py))<br>
 328.奇偶链表([odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/))   ([***code***](./middle/odd_even_linked_list.py))<br>
+334.递增的三元子序列([increasing-triplet-subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/))   ([***code***](./java/IncreasingTripletSubsequence.java))<br>
 347.前K个高频元素([top-k-frequent-elements](https://leetcode-cn.com/problems/top-k-frequent-elements/))   ([***code***](./middle/top_k_frequent_elements.py))<br>
 357.计算各个位数不同的数字个数([count-numbers-with-unique-digits](https://leetcode-cn.com/problems/count-numbers-with-unique-digits/))   ([***code***](./middle/count_numbers_with_unique_digits.py))<br>
 360.有序转化数组([sort-transformed-array](https://leetcode-cn.com/problems/sort-transformed-array/))   ([***code***](./middle/sort_transformed_array.py))<br>
