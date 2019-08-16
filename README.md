@@ -133,6 +133,7 @@ leetcode刷题笔记  （Python3\JAVA）
 210.课程表 II([course-schedule-ii](https://leetcode-cn.com/problems/course-schedule-ii/))    ([***code***](./middle/course_schedule_ii.py))<br>
 213.打家劫舍 II([house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii/))    ([***code***](./java/HouseRobberII.java))<br>
 215.数组中的第K个最大元素([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
+220.存在重复元素 III([contains-duplicate-iii](https://leetcode-cn.com/problems/contains-duplicate-iii/))    ([***code***](./java/ContainsDuplicateIII.java))<br>
 221.最大正方形([maximal-square](https://leetcode-cn.com/problems/maximal-square/))    ([***code***](./middle/maximal_square.py))<br>
 222.完全二叉树的节点个数([count-complete-tree-nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/))    ([***code***](./middle/count_complete_tree_nodes.py))<br>
 227.基本计算器 II([basic-calculator-ii](https://leetcode-cn.com/problems/basic-calculator-ii/))    ([***code***](./middle/basic_calculator_ii.py))<br>
@@ -162,6 +163,7 @@ leetcode刷题笔记  （Python3\JAVA）
 365.水壶问题([water-and-jug-problem](https://leetcode-cn.com/problems/water-and-jug-problem/))   ([***code***](./middle/water_and_jug_problem.py))<br>
 371.两整数之和([sum-of-two-integers](https://leetcode-cn.com/problems/sum-of-two-integers/))   ([***code***](./middle/sum_of_two_integers.py))<br>
 338.比特位计数([counting-bits](https://leetcode-cn.com/problems/counting-bits/))   ([***code***](./middle/counting_bits.py))<br>
+376.摆动序列([wiggle-subsequence](https://leetcode-cn.com/problems/wiggle-subsequence/))   ([***code***](./java/WiggleSubsequence.java))<br>
 378.有序矩阵中第K小的元素([kth-smallest-element-in-a-sorted-matrix](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/))   ([***code***](./java/KthSmallestElementInASortedMatrix.java))<br>
 384.打乱数组([shuffle-an-array](https://leetcode-cn.com/problems/shuffle-an-array/))   ([***code***](./middle/shuffle_an_array.py))<br>
 386.字典序排数([lexicographical-numbers](https://leetcode-cn.com/problems/lexicographical-numbers/))   ([***code***](./middle/lexicographical_numbers.py))<br>
@@ -179,6 +181,7 @@ leetcode刷题笔记  （Python3\JAVA）
 451.根据字符出现频率排序([sort-characters-by-frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/))   ([***code***](./middle/sort_characters_by_frequency.py))<br>
 462.最少移动次数使数组元素相等 II([minimum-moves-to-equal-array-elements-ii](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/))   ([***code***](./middle/minimum_moves_to_equal_array_elements_ii.py))<br>
 468.验证IP地址([validate-ip-address](https://leetcode-cn.com/problems/validate-ip-address/))   ([***code***](./middle/validate_ip_address.py))<br>
+487.最大连续1的个数 II([max-consecutive-ones-ii](https://leetcode-cn.com/problems/max-consecutive-ones-ii/))   ([***code***](./java/MaxConsecutiveOnesII.java))<br>
 491.递增子序列([increasing-subsequences](https://leetcode-cn.com/problems/increasing-subsequences/))   ([***code***](./middle/increasing_subsequences.py))<br>
 494.目标和([target-sum](https://leetcode-cn.com/problems/target-sum/))   ([***code***](./middle/target_sum.py))<br>
 495.提莫攻击([teemo-attacking](https://leetcode-cn.com/problems/teemo-attacking/))   ([***code***](./middle/teemo_attacking.py))<br>
