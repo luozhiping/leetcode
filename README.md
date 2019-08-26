@@ -148,6 +148,7 @@ leetcode刷题笔记  （Python3\JAVA）
 260.只出现一次的数字 III([single-number-iii](https://leetcode-cn.com/problems/single-number-iii/))   ([***code***](./middle/single_number_iii.py))<br>
 264.丑数 II([ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii/))   ([***code***](./middle/ugly_number_ii.py))<br>
 274.H指数([h-index](https://leetcode-cn.com/problems/h-index/))   ([***code***](./middle/h_index.py))<br>
+279.完全平方数([perfect-squares](https://leetcode-cn.com/problems/perfect-squares/))   ([***code***](./java/PerfectSquares.java))<br>
 280.摆动排序([wiggle-sort](https://leetcode-cn.com/problems/wiggle-sort/))   ([***code***](./java/WiggleSort.java))<br>
 285.二叉搜索树中的顺序后继([inorder-successor-in-bst](https://leetcode-cn.com/problems/inorder-successor-in-bst/))   ([***code***](./java/InorderSuccessorInBst.java))<br>
 287.寻找重复数([find-the-duplicate-number](https://leetcode-cn.com/problems/find-the-duplicate-number/))   ([***code***](./middle/find_the_duplicate_number.py))<br>
@@ -173,6 +174,7 @@ leetcode刷题笔记  （Python3\JAVA）
 395.至少有K个重复字符的最长子串([longest-substring-with-at-least-k-repeating-characters](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/))   ([***code***](./middle/longest_substring_with_at_least_k_repeating_characters.py))<br>
 402.移掉K位数字([remove-k-digits](https://leetcode-cn.com/problems/remove-k-digits/))   ([***code***](./middle/remove_k_digits.py))<br>
 406.根据身高重建队列([queue-reconstruction-by-height](https://leetcode-cn.com/problems/queue-reconstruction-by-height/))   ([***code***](./middle/queue_reconstruction_by_height.py))<br>
+416.分割等和子集([partition-equal-subset-sum](https://leetcode-cn.com/problems/partition-equal-subset-sum/))   ([***code***](./java/PartitionEqualSubsetSum.java))<br>
 419.甲板上的战舰([battleships-in-a-board](https://leetcode-cn.com/problems/battleships-in-a-board/))   ([***code***](./middle/battleships_in_a_board.py))<br>
 424.替换后的最长重复字符([longest-repeating-character-replacement](https://leetcode-cn.com/problems/longest-repeating-character-replacement/))   ([***code***](./middle/longest_repeating_character_replacement.py))<br>
 426.将二叉搜索树转化为排序的双向链表([convert-binary-search-tree-to-sorted-doubly-linked-list](https://leetcode-cn.com/problems/convert-binary-search-tree-to-sorted-doubly-linked-list/))   ([***code***](./middle/convert_binary_search_tree_to_sorted_doubly_linked_list.py))<br>
@@ -213,6 +215,7 @@ leetcode刷题笔记  （Python3\JAVA）
 698.划分为k个相等的子集([partition-to-k-equal-sum-subsets](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/))   ([***code***](./middle/partition_to_k_equal_sum_subsets.py))<br>
 713.乘积小于K的子数组([subarray-product-less-than-k](https://leetcode-cn.com/problems/subarray-product-less-than-k/))   ([***code***](./middle/subarray_product_less_than_k.py))<br>
 718.最长重复子数组([maximum-length-of-repeated-subarray](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/))   ([***code***](./middle/maximum_length_of_repeated_subarray..py))<br>
+723.粉碎糖果([candy-crush](https://leetcode-cn.com/problems/candy-crush/))   ([***code***](./java/CandyCrush.java))<br>
 725.分隔链表([split-linked-list-in-parts](https://leetcode-cn.com/problems/split-linked-list-in-parts/))   ([***code***](./middle/split_linked_list_in_parts..py))<br>
 738.单调递增的数字([monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits/))   ([***code***](./middle/monotone_increasing_digits.py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures.py))<br>
