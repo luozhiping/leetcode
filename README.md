@@ -220,6 +220,7 @@ leetcode刷题笔记  （Python3\JAVA）
 738.单调递增的数字([monotone-increasing-digits](https://leetcode-cn.com/problems/monotone-increasing-digits/))   ([***code***](./middle/monotone_increasing_digits.py))<br>
 739.每日温度([daily-temperatures](https://leetcode-cn.com/problems/daily-temperatures/))   ([***code***](./middle/daily_temperatures.py))<br>
 722.删除注释([remove-comments](https://leetcode-cn.com/problems/remove-comments/))   ([***code***](./middle/remove_comments.py))<br>
+763.划分字母区间([partition-labels](https://leetcode-cn.com/problems/partition-labels/))   ([***code***](./java/PartitionLabels.java))<br>
 767.重构字符串([reorganize-string](https://leetcode-cn.com/problems/reorganize-string/))   ([***code***](./middle/reorganize_string.py))<br>
 787.K 站中转内最便宜的航班([cheapest-flights-within-k-stops](https://leetcode-cn.com/problems/cheapest-flights-within-k-stops/))   ([***code***](./middle/cheapest_flights_within_k_stops.py))<br>
 792.匹配子序列的单词数([number-of-matching-subsequences](https://leetcode-cn.com/problems/number-of-matching-subsequences/))   ([***code***](./middle/NumberOfMatchingSubsequences.java))<br>
@@ -233,6 +234,7 @@ leetcode刷题笔记  （Python3\JAVA）
 841.钥匙和房间([keys-and-rooms](https://leetcode-cn.com/problems/keys-and-rooms/))   ([***code***](./middle/keys_and_rooms.py))<br>
 842.将数组拆分成斐波那契序列([split-array-into-fibonacci-sequence](https://leetcode-cn.com/problems/split-array-into-fibonacci-sequence/))   ([***code***](./middle/split_array_into_fibonacci_sequence.py))<br>
 845.数组中的最长山脉([longest-mountain-in-array](https://leetcode-cn.com/problems/longest-mountain-in-array/))   ([***code***](./middle/longest_mountain_in_array.py))<br>
+846.一手顺子([hand-of-straights](https://leetcode-cn.com/problems/hand-of-straights/))   ([***code***](./java/HandOfStraights.java))<br>
 848.字母移位([shifting-letters](https://leetcode-cn.com/problems/shifting-letters/))   ([***code***](./middle/shifting_letters.py))<br>
 856.括号的分数([score-of-parentheses](https://leetcode-cn.com/problems/score-of-parentheses/))   ([***code***](./middle/score_of_parentheses.py))<br>
 881.救生艇([boats-to-save-people](https://leetcode-cn.com/problems/boats-to-save-people/))   ([***code***](./middle/boats_to_save_people.py))<br>
@@ -253,6 +255,7 @@ leetcode刷题笔记  （Python3\JAVA）
 991.坏了的计算器([broken-calculator](https://leetcode-cn.com/problems/broken-calculator/))   ([***code***](./middle/broken_calculator.py))<br>
 994.腐烂的橘子([rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges/))   ([***code***](./middle/rotting_oranges.py))<br>
 1008.先序遍历构造二叉树([construct-binary-search-tree-from-preorder-traversal](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/))   ([***code***](./middle/construct_binary_search_tree_from_preorder_traversal.py))<br>
+1060.有序数组中的缺失元素([missing-element-in-sorted-array](https://leetcode-cn.com/problems/missing-element-in-sorted-array/))   ([***code***](./java/MissingElementInSortedArray.java))<br>
 1101.彼此熟识的最早时间([the-earliest-moment-when-everyone-become-friends](https://leetcode-cn.com/problems/the-earliest-moment-when-everyone-become-friends/))   ([***code***](./java/TheEarliestMomentWhenEveryoneBecomeFriends.java))<br>
 1017.负二进制转换([convert-to-base-2](https://leetcode-cn.com/problems/convert-to-base-2/))   ([***code***](./middle/convert_to_base_2.py))<br>
 1120.子树的最大平均值([maximum-average-subtree](https://leetcode-cn.com/problems/maximum-average-subtree/))   ([***code***](./middle/maximum_average_subtree.py))<br>
