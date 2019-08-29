@@ -156,6 +156,7 @@ leetcode刷题笔记  （Python3\JAVA）
 300.最长上升子序列([longest-increasing-subsequence](https://leetcode-cn.com/problems/longest-increasing-subsequence/))   ([***code***](./middle/longest_increasing_subsequence.py))<br>
 306.累加数([additive-number](https://leetcode-cn.com/problems/additive-number/))   ([***code***](./middle/additive_number.py))<br>
 319.灯泡开关([bulb-switcher](https://leetcode-cn.com/problems/bulb-switcher/))   ([***code***](./middle/bulb_switcher.py))<br>
+320.列举单词的全部缩写([generalized-abbreviation](https://leetcode-cn.com/problems/generalized-abbreviation/))   ([***code***](./java/GeneralizedAbbreviation.java))<br>
 322.零钱兑换([coin-change](https://leetcode-cn.com/problems/coin-change/))   ([***code***](./middle/coin_change.py))<br>
 328.奇偶链表([odd-even-linked-list](https://leetcode-cn.com/problems/odd-even-linked-list/))   ([***code***](./middle/odd_even_linked_list.py))<br>
 334.递增的三元子序列([increasing-triplet-subsequence](https://leetcode-cn.com/problems/increasing-triplet-subsequence/))   ([***code***](./java/IncreasingTripletSubsequence.java))<br>
@@ -253,6 +254,7 @@ leetcode刷题笔记  （Python3\JAVA）
 967.连续差相同的数字([numbers-with-same-consecutive-differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/))   ([***code***](./middle/numbers_with_same_consecutive_differences.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
 973.最接近原点的 K 个点([k-closest-points-to-origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/))   ([***code***](./middle/k_closest_points_to_origin.py))<br>
+984.不含 AAA 或 BBB 的字符串([string-without-aaa-or-bbb](https://leetcode-cn.com/problems/string-without-aaa-or-bbb/))   ([***code***](./java/StringWithoutAaaOrBbb.java))<br>
 990.等式方程的可满足性([satisfiability-of-equality-equations](https://leetcode-cn.com/problems/satisfiability-of-equality-equations/))   ([***code***](./middle/satisfiability_of_equality_equations.py))<br>
 991.坏了的计算器([broken-calculator](https://leetcode-cn.com/problems/broken-calculator/))   ([***code***](./middle/broken_calculator.py))<br>
 994.腐烂的橘子([rotting-oranges](https://leetcode-cn.com/problems/rotting-oranges/))   ([***code***](./middle/rotting_oranges.py))<br>
