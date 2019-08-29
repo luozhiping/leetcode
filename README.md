@@ -195,6 +195,7 @@ leetcode刷题笔记  （Python3\JAVA）
 523.连续的子数组和([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
 525.连续数组([contiguous-array](https://leetcode-cn.com/problems/contiguous-array/))   ([***code***](./middle/contiguous_array.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
+539.最小时间差([minimum-time-difference](https://leetcode-cn.com/problems/minimum-time-difference/))   ([***code***](./java/MinimumTimeDifference.java))<br>
 540.有序数组中的单一元素([single-element-in-a-sorted-array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/))   ([***code***](./middle/single_element_in_a_sorted_array.py))<br>
 542.01 矩阵([01-matrix](https://leetcode-cn.com/problems/01-matrix/))   ([***code***](./middle/01_matrix.py))<br>
 547.朋友圈([friend-circles](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
@@ -248,6 +249,7 @@ leetcode刷题笔记  （Python3\JAVA）
 945.使数组唯一的最小增量([minimum-increment-to-make-array-unique](https://leetcode-cn.com/problems/minimum-increment-to-make-array-unique/))   ([***code***](./middle/minimum_increment_to_make_array_unique.py))<br>
 946.验证栈序列([validate-stack-sequences](https://leetcode-cn.com/problems/validate-stack-sequences/))   ([***code***](./middle/validate_stack_sequences.py))<br>
 950.按递增顺序显示卡牌([reveal-cards-in-increasing-order](https://leetcode-cn.com/problems/reveal-cards-in-increasing-order/))   ([***code***](./java/RevealCardsInIncreasingOrder.java))<br>
+962.最大宽度坡([maximum-width-ramp](https://leetcode-cn.com/problems/maximum-width-ramp/))   ([***code***](./java/MaximumWidthRamp.java))<br>
 967.连续差相同的数字([numbers-with-same-consecutive-differences](https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/))   ([***code***](./middle/numbers_with_same_consecutive_differences.py))<br>
 969.煎饼排序([pancake-sorting](https://leetcode-cn.com/problems/pancake-sorting/))   ([***code***](./middle/pancake_sorting.py))<br>
 973.最接近原点的 K 个点([k-closest-points-to-origin](https://leetcode-cn.com/problems/k-closest-points-to-origin/))   ([***code***](./middle/k_closest_points_to_origin.py))<br>
