@@ -205,6 +205,7 @@ leetcode刷题笔记  （Python3\JAVA）
 547.朋友圈([friend-circles](https://leetcode-cn.com/problems/friend-circles/))   ([***code***](./middle/friend_circles.py))<br>
 556.下一个更大元素 III([next-greater-element-iii](https://leetcode-cn.com/problems/next-greater-element-iii/))   ([***code***](./java/NextGreaterElementIII.java))<br>
 560.和为K的子数组([subarray-sum-equals-k/](https://leetcode-cn.com/problems/subarray-sum-equals-k/))   ([***code***](./middle/subarray_sum_equals_k.py))<br>
+567.字符串的排列([permutation-in-string/](https://leetcode-cn.com/problems/permutation-in-string/))   ([***code***](./java/PermutationInString.java))<br>
 583.两个字符串的删除操作([delete-operation-for-two-strings/](https://leetcode-cn.com/problems/sdelete-operation-for-two-strings/))   ([***code***](./middle/delete_operation_for_two_strings.py))<br>
 611.有效三角形的个数([valid-triangle-number](https://leetcode-cn.com/problems/valid-triangle-number/))   ([***code***](./java/ValidTriangleNumber.java))<br>
 638.大礼包([shopping-offers](https://leetcode-cn.com/problems/shopping-offers/))   ([***code***](./middle/shopping_offers.py))<br>
