@@ -133,6 +133,7 @@ leetcode刷题笔记  （Python3\JAVA）
 210.课程表 II([course-schedule-ii](https://leetcode-cn.com/problems/course-schedule-ii/))    ([***code***](./middle/course_schedule_ii.py))<br>
 213.打家劫舍 II([house-robber-ii](https://leetcode-cn.com/problems/house-robber-ii/))    ([***code***](./java/HouseRobberII.java))<br>
 215.数组中的第K个最大元素([kth-largest-element-in-an-array](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/))    ([***code***](./2018tencent50/middle/kth_largest_element_in_an_array.py))<br>
+216.组合总和 III([combination-sum-iii](https://leetcode-cn.com/problems/combination-sum-iii/))    ([***code***](./java/CombinationSumIII.java))<br>
 220.存在重复元素 III([contains-duplicate-iii](https://leetcode-cn.com/problems/contains-duplicate-iii/))    ([***code***](./java/ContainsDuplicateIII.java))<br>
 221.最大正方形([maximal-square](https://leetcode-cn.com/problems/maximal-square/))    ([***code***](./middle/maximal_square.py))<br>
 222.完全二叉树的节点个数([count-complete-tree-nodes](https://leetcode-cn.com/problems/count-complete-tree-nodes/))    ([***code***](./middle/count_complete_tree_nodes.py))<br>
@@ -143,7 +144,8 @@ leetcode刷题笔记  （Python3\JAVA）
 238.除自身以外数组的乘积([product-of-array-except-self](https://leetcode-cn.com/problems/product-of-array-except-self/))   ([***code***](./2018tencent50/middle/product_of_array_except_self.py))<br>
 240.搜索二维矩阵 II([search-a-2d-matrix-ii](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/))   ([***code***](./middle/search_a_2d_matrix_ii.py))<br>
 244.最短单词距离 II([shortest-word-distance-ii](https://leetcode-cn.com/problems/shortest-word-distance-ii/))   ([***code***](./java/ShortestWordDistanceII.java))<br>
-244.最短单词距离 III([shortest-word-distance-iii](https://leetcode-cn.com/problems/shortest-word-distance-iii/))   ([***code***](./java/ShortestWordDistanceIII.java))<br>
+245.最短单词距离 III([shortest-word-distance-iii](https://leetcode-cn.com/problems/shortest-word-distance-iii/))   ([***code***](./java/ShortestWordDistanceIII.java))<br>
+247.中心对称数 II([strobogrammatic-number-ii](https://leetcode-cn.com/problems/strobogrammatic-number-ii/))   ([***code***](./java/StrobogrammaticNumberII.java))<br>
 253.会议室 II([meeting-rooms-ii](https://leetcode-cn.com/problems/meeting-rooms-ii/))   ([***code***](./middle/meeting_rooms_ii.py))<br>
 260.只出现一次的数字 III([single-number-iii](https://leetcode-cn.com/problems/single-number-iii/))   ([***code***](./middle/single_number_iii.py))<br>
 264.丑数 II([ugly-number-ii](https://leetcode-cn.com/problems/ugly-number-ii/))   ([***code***](./middle/ugly_number_ii.py))<br>
@@ -184,6 +186,7 @@ leetcode刷题笔记  （Python3\JAVA）
 442.数组中重复的数据([find-all-duplicates-in-an-array](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array/))   ([***code***](./middle/find_all_duplicates_in_an_array.py))<br>
 445.两数相加 II([add-two-numbers-ii](https://leetcode-cn.com/problems/add-two-numbers-ii/))   ([***code***](./middle/add_two_numbers_ii.py))<br>
 451.根据字符出现频率排序([sort-characters-by-frequency](https://leetcode-cn.com/problems/sort-characters-by-frequency/))   ([***code***](./middle/sort_characters_by_frequency.py))<br>
+456.132模式([132-pattern](https://leetcode-cn.com/problems/132-pattern/))   ([***code***](./java/Pattern132.java))<br>
 462.最少移动次数使数组元素相等 II([minimum-moves-to-equal-array-elements-ii](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/))   ([***code***](./middle/minimum_moves_to_equal_array_elements_ii.py))<br>
 468.验证IP地址([validate-ip-address](https://leetcode-cn.com/problems/validate-ip-address/))   ([***code***](./middle/validate_ip_address.py))<br>
 487.最大连续1的个数 II([max-consecutive-ones-ii](https://leetcode-cn.com/problems/max-consecutive-ones-ii/))   ([***code***](./java/MaxConsecutiveOnesII.java))<br>
