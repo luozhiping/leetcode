@@ -199,6 +199,7 @@ leetcode刷题笔记  （Python3\JAVA）
 523.连续的子数组和([continuous-subarray-sum](https://leetcode-cn.com/problems/continuous-subarray-sum/))   ([***code***](./middle/continuous_subarray_sum.py))<br>
 525.连续数组([contiguous-array](https://leetcode-cn.com/problems/contiguous-array/))   ([***code***](./middle/contiguous_array.py))<br>
 529.扫雷游戏([minesweeper](https://leetcode-cn.com/problems/minesweeper/))   ([***code***](./middle/minesweeper.py))<br>
+531.孤独像素 I([lonely-pixel-i](https://leetcode-cn.com/problems/lonely-pixel-i/))   ([***code***](./java/LonelyPixelI.java))<br>
 539.最小时间差([minimum-time-difference](https://leetcode-cn.com/problems/minimum-time-difference/))   ([***code***](./java/MinimumTimeDifference.java))<br>
 540.有序数组中的单一元素([single-element-in-a-sorted-array](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/))   ([***code***](./middle/single_element_in_a_sorted_array.py))<br>
 542.01 矩阵([01-matrix](https://leetcode-cn.com/problems/01-matrix/))   ([***code***](./middle/01_matrix.py))<br>
